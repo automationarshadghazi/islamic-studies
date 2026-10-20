@@ -2,7 +2,7 @@
 
 ## 🔥 START HERE TONIGHT (Paper 1 — Exam Tomorrow at `8:00 AM`!)
 
-0. **[`Paper1_Predicted_Syllabus_Revision_Notes.md`](./Paper1_Predicted_Syllabus_Revision_Notes.md)** — **COMPLETE STRICT-SYLLABUS REVISION NOTES FOR EVERY PREDICTED TOPIC!**
+0. **[`Paper1_Predicted_Syllabus_Revision_Notes.pdf`](./Paper1_Predicted_Syllabus_Revision_Notes.pdf)** *(Mobile-Optimised PDF — 23 Pages, Clickable Bookmarks!)* | **[Markdown Version](./Paper1_Predicted_Syllabus_Revision_Notes.md)** — **COMPLETE STRICT-SYLLABUS REVISION NOTES FOR EVERY PREDICTED TOPIC!**
    - **Zero Off-Syllabus Fluff:** Quotes every exact official `9488` syllabus bullet verbatim (`1.1–1.7`), cuts out `May/June 2026` repeats, and gives complete `AO1` study notes + Arabic terms + quotes + `AO2` evaluation banks for every single predicted passage and Section B topic (`Q 5:89–90`, `Q 4:12`, `Hadith 54`, `Q 31:14–15`, `Q 13:3–4`, `Q 17:31–35`, `Hadiths 316/309/27`, `1.1 Prophet's Life`, `1.7 Hajj & Equality`, `1.5 Wudu/Ghusl/Tayammum & Niyyah`, `1.6 Ashura/Du'a/Family/Nikah`, `1.4 Angels/Tawhid/Pillars`).
 
 1. **[`Paper1_Master_Plan_and_Full_Marks_Guide.md`](./Paper1_Master_Plan_and_Full_Marks_Guide.md)** — **13-Hour Plan + `50/50` Full-Marks Answering Templates**
