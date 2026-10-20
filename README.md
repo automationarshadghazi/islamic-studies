@@ -2,7 +2,10 @@
 
 ## 🔥 START HERE TONIGHT (Paper 1 — Exam Tomorrow at `8:00 AM`!)
 
-1. **[`Paper1_Master_Plan_and_Full_Marks_Guide.md`](./Paper1_Master_Plan_and_Full_Marks_Guide.md)** — **START HERE!**
+0. **[`Paper1_Predicted_Syllabus_Revision_Notes.md`](./Paper1_Predicted_Syllabus_Revision_Notes.md)** — **COMPLETE STRICT-SYLLABUS REVISION NOTES FOR EVERY PREDICTED TOPIC!**
+   - **Zero Off-Syllabus Fluff:** Quotes every exact official `9488` syllabus bullet verbatim (`1.1–1.7`), cuts out `May/June 2026` repeats, and gives complete `AO1` study notes + Arabic terms + quotes + `AO2` evaluation banks for every single predicted passage and Section B topic (`Q 5:89–90`, `Q 4:12`, `Hadith 54`, `Q 31:14–15`, `Q 13:3–4`, `Q 17:31–35`, `Hadiths 316/309/27`, `1.1 Prophet's Life`, `1.7 Hajj & Equality`, `1.5 Wudu/Ghusl/Tayammum & Niyyah`, `1.6 Ashura/Du'a/Family/Nikah`, `1.4 Angels/Tawhid/Pillars`).
+
+1. **[`Paper1_Master_Plan_and_Full_Marks_Guide.md`](./Paper1_Master_Plan_and_Full_Marks_Guide.md)** — **13-Hour Plan + `50/50` Full-Marks Answering Templates**
    - **Section 1:** Exact **13-Hour Tonight-to-8:00 AM Plan** (`7:00 PM` tonight → `8:00 AM` exam, with **7.5 hours of real sleep** built in).
    - **Section 2:** **Complete Forensic Past Paper Analysis (`Specimen 2021` – `May/June 2026`)** proving exact frequencies of all 10 Qur'an passages, all 10 Hadiths, and every Section B topic.
    - **Section 3:** **The Full-Marks Answering System (`50/50` Architecture)** — stopwatch timing, `Q1(a)` 6-Line Formula, `Q1(b)` 4-Box Formula, `AO1` 10-Mark Formula, `D-A-C-W` Level 5 Evaluation Formula (`1(c)` & `2(b)/3(b)`), and a **Before (`5/15`) vs After (`15/15`) Answer Upgrade**.
