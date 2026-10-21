@@ -5,8 +5,9 @@
 ---
 
 ## 📱 1-Tap Phone-Ready PDF Downloads (100% Valid, Zero-Defect Mobile Edition)
-1. 📗 **[`Paper2_Predicted_Syllabus_Revision_Notes.pdf` (18 Pages — Complete Strict Syllabus `2.1–2.9`)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/main/Paper2_Predicted_Syllabus_Revision_Notes.pdf)** — Ordered strictly from `#1 Untested Red-Hot Predictions` down; includes all missing `Unit 2.9` topics, `6-Item Part (a)` rapid lists, named scholars, and two-school *fiqh* comparisons (*Hanafi, Shafiʿi, Jaʿfari*).
-2. 🎯 **[`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf` (15 Pages — Full Audit, `50/50` Formulas & Mock Papers)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/main/Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf)** — Exact `21–27 Oct` schedule, complete `2021–June 2026` forensic table, `D-S-D-J` & `D-A-C-W` essay templates, Predicted Papers `2A` & `2B`, and a full `50/50` model script.
+1. 📋 **[`README.pdf` (Quick Dashboard & Day-by-Day Schedule `21–27 Oct`)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/main/README.pdf)** — Clean printable/mobile summary of your exact score targets, daily page-by-page plan, and direct resource links.
+2. 📗 **[`Paper2_Predicted_Syllabus_Revision_Notes.pdf` (18 Pages — Complete Strict Syllabus `2.1–2.9`)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/main/Paper2_Predicted_Syllabus_Revision_Notes.pdf)** — Ordered strictly from `#1 Untested Red-Hot Predictions` down; includes all missing `Unit 2.9` topics, `6-Item Part (a)` rapid lists, named scholars, and two-school *fiqh* comparisons (*Hanafi, Shafiʿi, Jaʿfari*).
+3. 🎯 **[`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf` (15 Pages — Full Audit, `50/50` Formulas & Mock Papers)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/main/Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf)** — Exact `21–27 Oct` schedule, complete `2021–June 2026` forensic table, `D-S-D-J` & `D-A-C-W` essay templates, Predicted Papers `2A` & `2B`, and a full `50/50` model script.
 
 ---
 
@@ -26,6 +27,7 @@
 ---
 
 ## 📂 Complete Clean Repository Contents (100% Valid Paper 2 Files Only)
+- [`README.pdf`](./README.pdf) & [`README.md`](./README.md)
 - [`Paper2_Predicted_Syllabus_Revision_Notes.pdf`](./Paper2_Predicted_Syllabus_Revision_Notes.pdf) & [`Paper2_Predicted_Syllabus_Revision_Notes.md`](./Paper2_Predicted_Syllabus_Revision_Notes.md)
 - [`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf`](./Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf) & [`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.md`](./Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.md)
 - [`past-papers/Paper2_All_Question_Papers_2021_to_June2026.md`](./past-papers/Paper2_All_Question_Papers_2021_to_June2026.md)
