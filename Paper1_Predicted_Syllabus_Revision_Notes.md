@@ -125,8 +125,8 @@
 
 ### 🧠 Complete `AO1` Revision Notes
 - **Two Opposite Spiritual Chains Taught in `Hadith 54`:**
-  1. **Upward Chain:** **Truthfulness (*Sidq*)** in word, intention, and deed $\rightarrow$ cultivates **Righteousness / Piety (*Al-Birr* — comprehensive goodness)** $\rightarrow$ leads to **Paradise (*Jannah*)**; continuous effort (*taharri al-sidq*) until written in Allah's Divine Sight as a ***Siddiq*** *(highest rank directly beneath Prophets — **Qurʾan 4:69**, exemplified by **Abu Bakr As-Siddiq**!)*.
-  2. **Downward Chain:** **Falsehood (*Al-Kadhib*)** $\rightarrow$ breeds **Wickedness / Immorality (*Al-Fujur*)** because one lie requires sins and cover-ups $\rightarrow$ drags to **Hellfire (*Jahannam*)**; persistence records the person with Allah as a **habitual liar (*kadhdhab*)**.
+  1. **Upward Chain:** **Truthfulness (*Sidq*)** in word, intention, and deed → cultivates **Righteousness / Piety (*Al-Birr* — comprehensive goodness)** → leads to **Paradise (*Jannah*)**; continuous effort (*taharri al-sidq*) until written in Allah's Divine Sight as a ***Siddiq*** *(highest rank directly beneath Prophets — **Qurʾan 4:69**, exemplified by **Abu Bakr As-Siddiq**!)*.
+  2. **Downward Chain:** **Falsehood (*Al-Kadhib*)** → breeds **Wickedness / Immorality (*Al-Fujur*)** because one lie requires sins and cover-ups → drags to **Hellfire (*Jahannam*)**; persistence records the person with Allah as a **habitual liar (*kadhdhab*)**.
 - **Cross-References to Pair Automatically in `Q1(b)` *(Mandatory Second Text Rule!)*:**
   - **`Hadith 199` (Hypocrites):** *"Three signs of a hypocrite: when he speaks, he lies; when he promises, he breaks it; when trusted, he betrays trust."* [Bukhari & Muslim].
   - **`Qurʾan 33:70` / `9:119`:** *"O you who believe! Fear Allah and be with those who are truthful (*al-sadiqin*)."*
@@ -143,7 +143,7 @@
 
 ### 4.1 `Qurʾan 31:14–15` — Parents (*Luqman*) + `Hadith 316` — Mother Three Times *(Last seen: `O/N 2021` — 5 yrs ago!)*
 - **Verbatim Key Text (`31:14–15`):** Mother bore child *"in travail upon travail, and in years twain (2 years) was his weaning: Show gratitude to Me and to thy parents... But if they strive to make thee join in worship with Me things (*shirk*)... obey them not; yet bear them company in this life with justice and consideration..."*
-- **Verbatim Key Text (`Hadith 316`):** *"Who among people is most deserving of my fine treatment?" — **"Your mother" (x3)** $\rightarrow$ **"Then your father."*** [Bukhari & Muslim].
+- **Verbatim Key Text (`Hadith 316`):** *"Who among people is most deserving of my fine treatment?" — **"Your mother" (x3)** → **"Then your father."*** [Bukhari & Muslim].
 - **Key Revision Notes:**
   - Context of `31:15`: Revealed concerning **Saʿd ibn Abi Waqqas**, whose mother swore neither to eat nor drink in Mecca until he renounced Islam; Allah forbade obeying her demand for *shirk* while commanding him still to speak gently and care for her! Also **Asma bint Abi Bakr** hosted and gave gifts to her non-Muslim mother **Qutaylah** with the Prophet's approval.
   - Pair with **`Qurʾan 17:23–24`**: Honour parents right after worshipping Allah alone; never say even *"Uff"* in irritation; *"lower to them the wing of humility out of mercy."*
@@ -160,10 +160,10 @@
   5. Calls humans explicitly to **rational reflection (*yatafakkarun* / *yaʿqilun*)**, linking nature's revival after rain directly to **bodily resurrection (`13:5`)**.
 
 ### 4.3 `Qurʾan 17:31–35` — Children's Lives (`17:31` Untested!), Chastity, Orphans & Honest Scales + `Hadiths 309, 27, 199`
-- **`17:31` (Untested!):** *"Kill not your children for fear of want (*imlaq*): We shall provide sustenance (*rizq*) for them as well as for you. Verily the killing of them is a great sin (*khitʾan kabira*)."* $\rightarrow$ Abolished pre-Islamic female infanticide (*waʾd al-banat*); establishes **Allah (*Ar-Razzaq*) alone as Provider**; notice *"for THEM first, then you"*! Relevant today to sanctity of infant/unborn life, child welfare, and trusting *rizq*.
-- **`17:34–35`:** Guard orphan's property strictly to invest/grow until maturity; keep every contract (*questioned on Day of Reckoning*); give **full measure and straight scales** in trade (**`17:35`**) $\rightarrow$ best outcome in *ʾakhirah*. Prophet himself grew up an orphan under **Abu Talib** & promised: *"I and the guardian of an orphan will be in Jannah like these two fingers"* [Bukhari].
+- **`17:31` (Untested!):** *"Kill not your children for fear of want (*imlaq*): We shall provide sustenance (*rizq*) for them as well as for you. Verily the killing of them is a great sin (*khitʾan kabira*)."* → Abolished pre-Islamic female infanticide (*waʾd al-banat*); establishes **Allah (*Ar-Razzaq*) alone as Provider**; notice *"for THEM first, then you"*! Relevant today to sanctity of infant/unborn life, child welfare, and trusting *rizq*.
+- **`17:34–35`:** Guard orphan's property strictly to invest/grow until maturity; keep every contract (*questioned on Day of Reckoning*); give **full measure and straight scales** in trade (**`17:35`**) → best outcome in *ʾakhirah*. Prophet himself grew up an orphan under **Abu Talib** & promised: *"I and the guardian of an orphan will be in Jannah like these two fingers"* [Bukhari].
 - **`Hadith 309` (Neighbours & Guests):** Faith in Allah & Last Day requires **(1) kindness to neighbours** (Muslim & non-Muslim — Prophet shared broth with Jewish neighbour), **(2) hospitality to guests**, **(3) speaking good or keeping silent**.
-- **`Hadith 27` (Perseverance):** Believer always wins — **prosperity $\rightarrow$ gratitude (*shukr*)** = good; **adversity $\rightarrow$ patience (*sabr*)** = good [Muslim]. Modelled in Meccan boycott, *Taʾif*, and baby Ibrahim's passing.
+- **`Hadith 27` (Perseverance):** Believer always wins — **prosperity → gratitude (*shukr*)** = good; **adversity → patience (*sabr*)** = good [Muslim]. Modelled in Meccan boycott, *Taʾif*, and baby Ibrahim's passing.
 
 ---
 
@@ -235,7 +235,7 @@
   - ***Eid ul-Fitr* (1st *Shawwal*):** Mandatory ***Zakat ul-Fitr*** (*Fitrana* — staple food/cash paid **before** *Eid* prayer for every man, woman, and child) specifically *"to enrich the poor from begging on the day of Eid"* [Abu Dawud]. Prophet instructed **even menstruating women** (exempt from ritual prayer itself) to attend the open-air *Eid musalla* for *duʾa*, *takbir*, community joy, and sermon!
   - ***Eid ul-Adha* (10th *Dhul-Hijjah*) & *Udhiyah / Qurbani*:** Recalls **Ibrahim & Ismaʾil's supreme submission** (**Q 37:102–107**). Note **`Qurʾan 22:37`**: *"Neither their meat nor their blood reaches Allah; **it is your piety (taqwa) that reaches Him**."* Sunnah 3-way distribution: **1/3 immediate family**, **1/3 relatives, friends & neighbours**, **1/3 poor & destitute** — uniting non-pilgrims globally with *Hajj* pilgrims!
 - **Intentions $\leftrightarrow$ Actions $\leftrightarrow$ Afterlife Triangle (`1.7` Bullet 4):**
-  - **Intention (*Niyyah*, Hadith 1)** gives spiritual validity $\rightarrow$ **Righteous Actions (*Amal Salih*)** embody faith visibly in society $\rightarrow$ **Judgment & Afterlife (*ʾAkhirah*, Mizan scale `Q 99:7–8`)** provides ultimate accountability where an atom's weight of sincere good or showy evil (*riya*) is unveiled.
+  - **Intention (*Niyyah*, Hadith 1)** gives spiritual validity → **Righteous Actions (*Amal Salih*)** embody faith visibly in society → **Judgment & Afterlife (*ʾAkhirah*, Mizan scale `Q 99:7–8`)** provides ultimate accountability where an atom's weight of sincere good or showy evil (*riya*) is unveiled.
 
 ### ⚖️ 1.7 `AO2` Evaluation Cheat-Sheet (`15 Marks`)
 - **Agree (*Hajj / Zakat / Eid creates true equality & unity*):** Physical erasure of race/wealth in *Ihram* & *Muzdalifah*; universal *Qiblah*; mandatory *Zakat* & *Fitrana* redistribute wealth by Divine law rather than optional pity.
@@ -268,7 +268,7 @@
     6. Wash **right then left foot including ankles** **3x** *(fard)*, maintaining order (*tartib*) without wasting water (Prophet forbade wasting water even at a flowing river!).
     - **Spiritual meaning:** Hadith in **Muslim**: as water drips off the face, hands, and feet in *wudu*, **every minor sin committed by eyes, hands, and feet washes out with the last drop of water**, and *wudu* limbs shine bright white (*ghurran muhajjalin*) on Resurrection Day!
   - **Major Ablution (*Ghusl*):** Mandatory full-body wash after marital relations, wet dreams (*janabah*), menstruation (*hayd*), or childbirth bleeding (*nifas*) — *niyyah*, washing private parts, full *wudu*, pouring water over entire head & body **3x** ensuring no hair root stays dry; recommended on Fridays (*Jumuʿah*), *Eids*, entering *Ihram*, and upon a convert accepting Islam.
-  - **Dry Ablution (*Tayammum*):** Performed with **clean earth/sand/stone** when water is absent or using water worsens illness/wound (**Q 5:6**): *niyyah* + strike clean dust lightly with palms, wipe **face** and **hands/wrists** $\rightarrow$ proves purification is ultimately **spiritual obedience to Allah**, NOT mere soap-and-water hygiene!
+  - **Dry Ablution (*Tayammum*):** Performed with **clean earth/sand/stone** when water is absent or using water worsens illness/wound (**Q 5:6**): *niyyah* + strike clean dust lightly with palms, wipe **face** and **hands/wrists** → proves purification is ultimately **spiritual obedience to Allah**, NOT mere soap-and-water hygiene!
   - *(Quick links across `1.5` bullet 1: **Birth purity** = circumcision *khitan*, shaving newborn hair + silver weight to poor on day 7, post-natal *ghusl*; **Hajj prep** = paying debts, seeking forgiveness from wronged people, *ghusl* & white *Ihram*; **Death** = washing deceased 3x/odd numbers with camphor before shrouding in white *kafan*).*
 - **2. Inner Purification — Mind (*Khushuʿ*), Intention (*Niyyah*) & Heart (*Shahadah*):**
   - **Purifying the Mind:** Blocking worldly worries, phone/work distractions, and Satanic whispers (*waswasah*) to achieve ***khushuʿ* (humble mental focus & awe)** in prayer (**`Qurʾan 23:1–2`**: *"Successful indeed are the believers, those who humble themselves in their prayers"*) and standing as though seeing Allah (***Ihsan*** — Hadith of Jibril).
@@ -352,10 +352,10 @@
      6. ***Munkar* & *Nakir*:** Question every soul in the grave (*Barzakh*): *"Who is your Lord? What is your religion? Who is this Prophet?"*
      7. **Guardian Angels (*Muʿaqqibat* — `Q 13:11`), *Ridwan* (Paradise gatekeeper), *Malik* & 19 *Zabaniyah* (Hellfire keepers — `Q 43:77`), & Mosque/Dhikr Angels:** Surround Qurʾan circles, record early Friday *Jumuʿah* arrivals, and say *"Ameen"* during *Salah* (**`Al-Fatihah`**) and when praying for an absent brother!
    - **How Belief in Angels Directly Shapes Daily Actions & Pillars:**
-     - **Kiraman Katibeen $\rightarrow$ Moral Integrity in Private:** Restrains secret cheating, online sin, lying, or *riba* even behind locked doors; inspires hidden *sadaqah*.
-     - **Jibril $\rightarrow$ Reverence for Qurʾan & *Salah*:** Guards every word of Qurʾan as direct Heavenly speech; observe *Ramadan* *Laylat al-Qadr* eagerly (`Q 97:4`).
-     - **Salah & Jumuʿah Angels $\rightarrow$ Punctuality & Focus:** Arriving early Friday before angels close the scroll [Bukhari]; greeting right and left shoulders with ***As-salamu ʿalaykum wa rahmatullah*** at end of *Salah*!
-     - **Guardian Angels $\rightarrow$ Courage & Comfort:** Removes loneliness and fear.
+     - **Kiraman Katibeen → Moral Integrity in Private:** Restrains secret cheating, online sin, lying, or *riba* even behind locked doors; inspires hidden *sadaqah*.
+     - **Jibril → Reverence for Qurʾan & *Salah*:** Guards every word of Qurʾan as direct Heavenly speech; observe *Ramadan* *Laylat al-Qadr* eagerly (`Q 97:4`).
+     - **Salah & Jumuʿah Angels → Punctuality & Focus:** Arriving early Friday before angels close the scroll [Bukhari]; greeting right and left shoulders with ***As-salamu ʿalaykum wa rahmatullah*** at end of *Salah*!
+     - **Guardian Angels → Courage & Comfort:** Removes loneliness and fear.
 
 2. **Belief in One Creator God (*Tawhid*) — First Article of Faith (`Last asked: M/J 2022` — 4.5 yrs ago!):**
    - **Three Interlocking Dimensions of *Tawhid*:**
