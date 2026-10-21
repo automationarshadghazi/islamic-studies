@@ -5,8 +5,8 @@
 ---
 
 ## 📱 1-Tap Phone-Ready PDF Downloads (100% Valid, Zero-Defect Mobile Edition)
-1. 📗 **[`Paper2_Predicted_Syllabus_Revision_Notes.pdf` (18 Pages — Complete Strict Syllabus `2.1–2.9`)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/arena/30e9232c-islamic-studies/Paper2_Predicted_Syllabus_Revision_Notes.pdf)** — Ordered strictly from `#1 Untested Red-Hot Predictions` down; includes all missing `Unit 2.9` topics, `6-Item Part (a)` rapid lists, named scholars, and two-school *fiqh* comparisons (*Hanafi, Shafiʿi, Jaʿfari*).
-2. 🎯 **[`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf` (15 Pages — Full Audit, `50/50` Formulas & Mock Papers)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/arena/30e9232c-islamic-studies/Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf)** — Exact `21–27 Oct` schedule, complete `2021–June 2026` forensic table, `D-S-D-J` & `D-A-C-W` essay templates, Predicted Papers `2A` & `2B`, and a full `50/50` model script.
+1. 📗 **[`Paper2_Predicted_Syllabus_Revision_Notes.pdf` (18 Pages — Complete Strict Syllabus `2.1–2.9`)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/main/Paper2_Predicted_Syllabus_Revision_Notes.pdf)** — Ordered strictly from `#1 Untested Red-Hot Predictions` down; includes all missing `Unit 2.9` topics, `6-Item Part (a)` rapid lists, named scholars, and two-school *fiqh* comparisons (*Hanafi, Shafiʿi, Jaʿfari*).
+2. 🎯 **[`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf` (15 Pages — Full Audit, `50/50` Formulas & Mock Papers)](https://raw.githubusercontent.com/automationarshadghazi/islamic-studies/main/Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf)** — Exact `21–27 Oct` schedule, complete `2021–June 2026` forensic table, `D-S-D-J` & `D-A-C-W` essay templates, Predicted Papers `2A` & `2B`, and a full `50/50` model script.
 
 ---
 
