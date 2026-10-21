@@ -23,22 +23,22 @@ You estimated **~15 lost marks (`~35 / 50`)** on Paper 1 after revising in a sin
    - **Section A (`25 marks` = `5 + 10 + 10`):** Answer **EITHER `Question 1` OR `Question 2`**.
    - **Section B (`25 marks` = `10 + 15`):** Answer **EITHER `Question 3` OR `Question 4`**.
 2. **`Part (a)` `[5 marks]` Is Literally a 3-Minute Free `5/5` Gift:** Every Section A starts with *"State / Give / Identify **five**..."* — write **6 crisp factual points in 3–4 minutes** and bank **5/5 guaranteed marks** while buying **extra minutes for your big 10- and 15-mark essays**!
-3. **You Have SIX FULL DAYS (`Wed 21 Oct` → `Tue 27 Oct 2026` Zone 4 Exam Day) + Full 8h Sleep Every Night!** *(Check your Statement of Entry for exact AM/PM reporting time on Tuesday 27 October.)*
+3. **You Have FIVE FULL DAYS (`Thu 22 Oct` → `Mon 26 Oct`) Before `Tue 27 Oct 2026 at 08:00 AM`!** Locking in a strict **`22:30 – 06:15` sleep schedule (`7h 45m–8h` every single night)** trains your brain to wake automatically and peak at **`08:00 AM` sharp** on exam morning!
 
 ---
 
-### 1.3 Your Calm, Burnout-Free 6-Day Study & Sleep Schedule (`21 Oct` – `27 Oct 2026`)
-> **GOLDEN RULE:** **Rest tonight (`Wed 21 Oct`)** to recover from this morning's exam + **8 hours sleep (`10:30 PM – 6:30 AM`) every single night!**
+### 1.3 Your Exact Day-by-Day Revision & Sleep Plan (`Wed 21 Oct 22:27` → `Tue 27 Oct 08:00 AM`)
+> **CIRCADIAN GOLDEN RULE FOR AN `08:00 AM` EXAM:** Sleep by **`22:30` TONIGHT (`Wed 21 Oct`)** and wake around **`06:15–06:30 AM`** every single day so your brain is already 100% switched on at **`08:00 AM`**! Study **`2.5–3 hours/day max`** — quality active recall beats marathon reading 10 to 1.
 
-| Day | Study Focus (`2.5–3 hrs/day max` in focused 45-min blocks!) | Exact Active Output |
+| Date | Exact Revision Targets (From `Paper2_Predicted_Syllabus_Revision_Notes.pdf`) | Active Timed Drill (`40–90 mins`) |
 |---|---|---|
-| **Wed 21 Oct *(Tonight)*** | **Recovery + Light Orientation (`30 mins` ONLY)** | Rest, eat well, skim **Sections 2 & 3** below so your brain sees the whole Paper 2 map. **Sleep `10:00 PM`!** |
-| **Thu 22 Oct** | **Day 1 — Section A Red-Hot Applied Fiqh (`Units 2.2 & 2.1` + `2.4` School Comparisons)** | Blurt **Divorce (*Talaq/Khulʿ/ʿIddah*)**, **Female Inheritance**, **Combining Prayers (*Jamʿ*)**, **Prayer Timings (*Hanafi vs Shafiʿi vs Shiʾi*)**, & ***Wudu* Fiqh**. Write **one timed `1(a)+1(b)+1(c)` (`42 mins`)**. |
-| **Fri 23 Oct** | **Day 2 — Section A Finance & Sources (`Units 2.3 & 2.5`)** | Blurt **Debt, *Riba* & Mortgages**, **Employment in Local Contexts**, **Primary Sources + *Sahih* vs *Daʿif* Hadith**, & **Comparing 2 Fiqh Schools (`2.4`)**. Write **one `Compare...` `[10m]` answer (`19 mins`)**. |
-| **Sat 24 Oct** | **Day 3 — Section B Red-Hot Leaders & Reformers (`Units 2.7 & 2.9`)** | Blurt **Modern Salafis vs Modernist Reformists (*Ibn Taymiyyah vs Sir Sayyid / ʿAbduh / Fazlur Rahman*)**, **Sufi *Murshid* & *Bayʿah***, & **Sunni Caliph vs Infallible Shiʾi Imam**. |
-| **Sun 25 Oct** | **Day 4 — Section B *Tawhid*, *ʿAli* & *Qadar* (`Units 2.6 & 2.8`) + Full Mock** | Blurt **Anthropomorphic Verses (*Muʾtazilah vs Ashʿari vs Salafi*)**, **Shiʾi *Shahadah* & *ʿAli* (*Ghadir Khumm*)**, & **Free Will vs *Qadar* & Adjusting Divine Plan**. Sit **Predicted Paper 2A (`90 mins` timed)** & self-mark! |
-| **Mon 26 Oct** | **Day 5 — Precision Polish & Early Sleep (`90 mins` light review ONLY)** | Review red-circled gaps from your mock, drill **14 Named Scholars + `5-Item` Quick Lists**, pack bag, **sleep `10:15 PM` (`8+ hrs`)**. |
-| **Tue 27 Oct *(Exam Day)*** | **40-Min Calm Warm-Up → Walk In & Smash `44–48 / 50`!** | Skim **Named Scholars Sheet + `D-S-D-J` / `D-A-C-W` Formulas** only. |
+| **Wed 21 Oct *(22:27 Tonight)*** | **STOP STUDYING NOW — STRAIGHT TO SLEEP!** Recover from today's Paper 1! | **Sleep `22:35 – 06:30` (`8 hrs` deep recovery)** |
+| **Thu 22 Oct *(Day 1)*** | **Section A Red-Hot #1 & #2 (`Pages 2–7`):** **Unit `2.2` Divorce (*Talaq, Khulʿ, Faskh, ʿIddah*, Triple *Talaq* across *Hanafi/Shafiʿi/Jaʿfari*) + Female Inheritance** • **Unit `2.1` Combining Prayers (*Jamʿ*) + Timings (*Fajr, ʿAsr, Maghrib*) + *Wudu* Fiqh** | Write **Predicted Paper 2A `Q1(a)+(b)+(c)` (`42 mins`)** & compare line-by-line with the `25/25` Model Script! |
+| **Fri 23 Oct *(Day 2)*** | **Section A #3 & #4 (`Pages 8–11`):** **Unit `2.3` Employment in Local Contexts + Debt, *Riba* & Mortgages** • **Units `2.4–2.5` Primary Sources, *Sahih* vs *Daʿif* Hadith & Direct 2-School Fiqh Comparison** | Write **one `Compare...` `[10m]` answer (`19 mins`)** using **`D — S — D — J`**! |
+| **Sat 24 Oct *(Day 3)*** | **Section B Red-Hot #5 & #6 (`Pages 12–16`):** **Unit `2.9` Modern *Salafis* vs *Modernist Reformists* (*Ibn Taymiyyah vs Sir Sayyid / ʿAbduh / Fazlur Rahman*) + *Sunni vs Shiʾi*** • **Unit `2.7` Sufi Master (*Murshid, Bayʿah, Dhikr*) + *Sunni Caliph vs Infallible Shiʾi Imam*** | Write **Predicted Paper 2A `Q3(a)+(b)` (`45 mins`)** & check against the `25/25` Model Essay! |
+| **Sun 25 Oct *(Day 4)*** | **Section B #7 & #8 (`Pages 16–18`) + `08:00 AM` Biological Clock Dress Rehearsal:** **Unit `2.6` Anthropomorphic Verses (`3` schools) + *Shahadah / ʿAli*** • **Unit `2.8` Free Will vs *Qadar* + Adjusting Divine Plan (*Qada Muʿallaq*, `Q 13:39`, *Duʾa*)** | **Sit Predicted Paper 2B at `08:00 – 09:30 AM` sharp** (exact exam clock hour!) under strict exam conditions! |
+| **Mon 26 Oct *(Day 5 — Eve)*** | **Light Consolidation ONLY (`90 mins` total — stop by `17:00`!):** Re-blurt every **`6-Item Part (a)` Quick List**, **14 Named Scholars**, **3 School Differences per Unit**, & **`D-S-D-J` / `D-A-C-W` skeletons**. Pack bag & ID night before! | **Sleep `22:00 – 06:00` (`8 full hours`)!** |
+| **Tue 27 Oct *(08:00 AM Exam)*** | **`06:00` Wake, wash face, breakfast → `06:45` 20-min calm glance at Scholars & Formulas ONLY → `08:00 AM` Smash `43–48 / 50`!** | Lock **`5/5` on Part `(a)` in 3.5 mins** → Cruise to **AS Grade `a` (`77+/100`)**! |
 
 ---
 
