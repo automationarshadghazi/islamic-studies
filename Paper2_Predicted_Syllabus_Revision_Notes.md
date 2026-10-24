@@ -1,168 +1,177 @@
-# Cambridge AS Level Islamic Studies (`9488/22`) — Complete Syllabus Revision Notes
-### **Paper 2: *Islamic Law (Shariah) and its Application* • Strictly Ordered by `Oct/Nov 2026` Predictions • Zero Off-Syllabus Content**
+# Cambridge AS Islamic Studies 9488/22 — Revision Notes
+## Selected fiqh schools: Hanafi and Hanbali
 
-> **HOW THIS BOOKLET WORKS FOR `TUESDAY 27 OCTOBER 2026` (`9488/22`):**
-> - **100% Strict Syllabus Alignment:** Covers every bullet of **Units `2.1` to `2.9`** of official Cambridge AS Level `9488`—**including all missing `Unit 2.9` topics** (*Sunni vs Shiʾi, Sufism & Tariqas, Modern Salafis vs Modernist Reformists*) AND built-in **Two-School Fiqh Comparisons (`Hanafi`, `Shafiʿi`, & `Jaʿfari Twelver Shiʾi`)** required by `Unit 2.4`.
-> - **Ordered Strictly by `Oct/Nov 2026` Probability:** Every Section A and Section B unit starts with **UNTESTED / 4–5 YEAR OVERDUE RED-HOT TOPICS FIRST**, placing `May/June 2026` recent topics last as ultra-concise safety nets.
-> - **Built-in `5/5` Part (a) Quick Banks:** Every Section A unit begins with ready-made **6-Item Rapid Lists** so you pocket **`5/5` in 3 minutes** and spend all remaining time smashing your `10`- and `15`-mark answers!
+Updated 24 October 2026 • Exam: Tuesday 27 October, 08:00
 
----
+**Section A now consistently uses Hanafi and Hanbali** for worship, family life, finance and school-method comparisons. These are substantive replacements, not a change of school names on old Shafi‘i/Ja‘fari rulings.
 
-## MASTER INDEX & PREDICTION PRIORITY ORDER (`9488/22`)
+**Section B still requires wider perspectives:** Sunni/Shi‘i, Mu‘tazili/Ash‘ari, Sufi, Salafi and reformist material remains relevant in Units 2.6–2.9. A two-school fiqh choice does not replace that content. The Section B material below is retained from the existing notes, not newly re-audited in this school-conversion update. [1]
 
-| Section & Priority | Official `9488` Unit | Exact Syllabus Bullets Covered | Past-Paper Status (`2021–June 2026`) |
-|---|---|---|---|
-| **SEC A — #1 RED HOT** | **`2.2` Family Life** *(+ `2.4` Schools)* | **Divorce (*Talaq, Khulʿ, ʿIddah*)**, **Female Inheritance**, Spouse Choice, Forbidden Relatives & Interfaith *Nikah* | **Divorce NEVER tested in 6 years!** Inheritance 3.5 yrs overdue! |
-| **SEC A — #2 RED HOT** | **`2.1` Worship** *(+ `2.4` Schools)* | **Combining Prayers (*Jamʿ*)**, **Prayer Timings (*Fajr, ʿAsr, Maghrib*)**, ***Wudu* Opinions**, Places & *Jumuʿah* summary | **Combining NEVER tested in live exams!** *Wudu* 4.5 yrs overdue! *(`Jumuʿah` just tested `M/J 26`)* |
-| **SEC A — #3 HIGH** | **`2.3` Finance & Work** *(+ `2.4` Schools)* | **Employment in Local Contexts**, **Debt, *Riba* & Mortgages**, & Conditions of Business Transactions | **Employment 5 yrs overdue (`O/N 21`)!** Debt/*Riba* 3 yrs overdue (`O/N 23`)! |
-| **SEC A — #4 HIGH** | **`2.4 & 2.5` Schools & Sources of *Shariah*** | **Two Fiqh Schools Compared (`Hanafi, Shafiʿi, Maliki, Hanbali, Jaʿfari`)**, **Primary Sources + *Sahih* vs *Daʿif* Hadith**, & 5 Secondary Sources | **Hadith authenticity & Direct School Comparison 3–3.5 yrs overdue!** *(Secondary priority just tested `M/J 26`)* |
-| **SEC B — #5 RED HOT** | **`2.9` Distinctive Positions** *(Missing PDF Topic!)* | **Modern *Salafi* vs *Modernist / Reformist* Positions**, **Sunni vs Shiʾi Core Beliefs**, Mystical Sufism & *Muʾtazilah vs Ashʿari* | **Modernist Reformists & Salafi vs Modernist NEVER tested in 6 years!** |
-| **SEC B — #6 RED HOT** | **`2.7` Religious Leaders** | **Sufi Master (*Murshid*), Allegiance (*Bayʿah*) & *Tariqa***, **Sunni Caliph**, **Infallible Shiʾi Imam (*ʿIsmah*)**, & ***Ijtihad*** | **Sufi *Murshid* NEVER tested in live exams!** Caliph 4 yrs overdue (`O/N 22`)! |
-| **SEC B — #7 RED HOT** | **`2.6` Oneness of God (*Tawhid*)** | **Anthropomorphic Verses (Literal vs Metaphorical)**, **Authority of *Qurʾan***, ***Shahadah* & Position of *ʿAli***, *Mawlid* & *al-Hallaj* | **Anthropomorphism 5 yrs overdue (`O/N 21`)!** *ʿAli / Shahadah* 4.5 yrs overdue (`M/J 22`)! |
-| **SEC B — #8 HIGH** | **`2.8` Judgement & Afterlife (*ʾAkhirah*)** | **Free Will vs *Qadar* & Adjustment to the Divine Plan (*Duʾa* / Charity)**, *Muʾtazilah vs Ashʿari* Justice, *Mahdi*, & Sufi Stations | **Free Will / *Qadar* 4.5 yrs overdue (`M/J 22`) & Adjusting Divine Plan NEVER tested!** |
+**Predictions are study priorities, not probabilities or guarantees.** Prioritise divorce; combining/timings and wudu; finance/employment; then sources/method. Retain inheritance, marriage and Friday prayer as backup. Recently tested does not mean eliminated. No list or essay formula guarantees full marks.
 
----
----
+**Attribution:** “al-Quduri records” means he documents Hanafi law, not that he invented it. Al-Hajjawi and Ibn Qudamah are later Hanbali authorities, not Ahmad’s immediate disciples. Where a comparative author reports a school rule, that is labelled rather than invented as a direct founder quotation. Cambridge specifies the Imams “and their Madhab”, with no first-generation-only restriction. [1, 20, 37, 38]
 
-# PART I: SECTION A (`25 Marks` — Choose `Question 1` OR `Question 2`)
-### *Structure: `(a) [5 marks]` Rapid 5-Item List + `(b) [10 marks]` AO1 Explanation + `(c) [10 marks]` AO2 Evaluation / Comparison*
+**Further detail:** the separate [hanafi hanbali in order.pdf](./hanafi%20hanbali%20in%20order.pdf) contains priority pages, qualifications, internal disagreements and clickable sources. Use PDF bookmarks rather than the old pack’s page references.
 
----
+# PART I — SECTION A
 
-# PRIORITY 1 (SECTION A): UNIT `2.2` — FAMILY LIFE (*TALAQ, INHERITANCE & NIKAH*)
-*(Applied Across **Hanafi**, **Shafiʿi**, and **Jaʿfari Twelver Shiʾi** Schools)*
+Answer Question 1 OR Question 2: 25 marks, normally 5 + 10 + 10. Answer the exact command and topic; do not force every comparison into every question.
 
-### ⚡ Instant `5/5` Rapid Bank for `1(a)` / `2(a)` Questions on Unit `2.2`:
-- **6 Conditions/Steps of Valid Divorce (*Talaq*):** (1) Prior reconciliation & two family arbitrators (**Qurʾan 4:35**); (2) Sane, adult husband with conscious intent; (3) Single pronouncement during post-menstrual purity (*tuhr*) without intercourse (**Qurʾan 65:1**); (4) Mandatory three-cycle waiting period (*ʿiddah*, **Qurʾan 2:228**) funded in the marital home; (5) Two upright male witnesses required in **Jaʿfari Shiʾi** law; (6) Wife’s right to seek *khulʿ* (**Qurʾan 2:229**) or judicial *faskh*.
-- **6 Women Forbidden for Marriage (*Mahram*, `Qurʾan 4:23`):** (1) Mothers & grandmothers; (2) Daughters & granddaughters; (3) Sisters (full, paternal, or maternal); (4) Paternal & maternal aunts (*ʿammah / khalah*); (5) Nieces; (6) Mothers-in-law, step-daughters (if marriage consummated), daughters-in-law, foster-mothers/sisters through breastfeeding (*radaʿah*), and two sisters simultaneously.
-- **6 Female Family Heirs Protected by *Shariah* (`Qurʾan 4:11–12`):** (1) Wife (`1/4` without children, `1/8` with children); (2) Daughter (`1/2` if sole child, `2/3` shared by 2+ daughters, or `1:2` with brother); (3) Mother (`1/3` without children/siblings, `1/6` with children); (4) Maternal sister (`1/6` sole, `1/3` shared equally with maternal brother); (5) Full sister (`1/2` if deceased has no child/father); (6) Son's daughter (*bint al-ibn*) in Sunni *fiqh*.
+# PRIORITY 1 — FAMILY LIFE (Units 2.2 and 2.4)
 
----
+## 1.1 Divorce — learn deeply
 
-### 1.1 Conditions for Divorce (*Talaq, Khulʿ, Faskh & ʿIddah*) — **#1 UNTESTED GAP IN SECTION A!**
-- **Core Moral Principle (`AO1`):** Marriage is a solemn covenant (*mithaqan ghalizan*, **Qurʾan 4:21**); divorce is permitted only as a reluctant last remedy when reconciliation fails (*"Of all lawful things, divorce is the most disliked by Allah"* — Abu Dawud). **Qurʾan 4:35** requires appointing one arbiter from his family and one from hers first, and **Qurʾan 2:229** commands: *"Either retain in kindness or release in kindness."*
-- **Three Modes of Dissolving Marriage:**
-  1. ***Talaq*** (Husband-pronounced divorce): Revocable (*rajʿi*) for the first two single pronouncements; wife stays in home with full *nafaqah* during *ʿiddah* (**3 menstrual/purity cycles**, `Q 2:228`; **3 lunar months** if non-menstruating, `Q 65:4`; **until childbirth** if pregnant, `Q 65:4`).
-  2. ***Khulʿ*** (Wife-initiated release by mutual consent / *qadi*, `Q 2:229`): Wife returns part/all of her *mahr* (modelled on Thabit ibn Qays’s wife returning her garden — Bukhari); immediately creates a minor irrevocable divorce (*baʾin*).
-  3. ***Faskh / Tafriq*** (Judicial annulment by a *Qadi*): Granted for cruelty, abandonment, non-maintenance, impotence, or apostasy—**wife keeps 100% of her *mahr***! Women can also stipulate **delegated divorce rights (*talaq al-tafwid*)** inside the marriage contract (*nikahnama*).
-- **Crucial Two-School Comparison (`Hanafi` vs `Shafiʿi` vs `Jaʿfari Twelver Shiʾi`):**
-  - **Pronouncement in Anger / Intoxication & Triple *Talaq* in One Sitting:** Classical **Hanafi** & **Shafiʿi** schools count triple *talaq* in one breath as **legally effective (`3` divorces — major irrevocable *baʾin kubra*, `Q 2:230`)** even though sinful (*talaq bidʿi*), and Hanafi counts coerced/intoxicated pronouncements; **Ibn Taymiyyah**, **Salafi scholars**, and modern Muslim family laws count triple *talaq* in one sitting as **ONE single revocable divorce**; **Jaʿfari Shiʾi** law **strictly invalidates** any divorce spoken in extreme anger, intoxication, coercion, during menstruation, OR without **two just witnesses (`Q 65:2`)** hearing the exact Arabic formula (*"Anti taliq"*), counting triple *talaq* in one sitting as invalid or single!
+**Evidence:** Qur’an 4:35, family arbitration; 2:229, retention or release in kindness and compensated release; 2:228, waiting period; 65:1–4, divorce procedure and waiting periods.
 
----
+**Do not confuse recommended procedure, sinfulness and legal validity.** Reconciliation is important, but failure to complete arbitration is not automatically a universal condition making every talaq invalid. Explicit divorce wording does not always require a separate intention. Avoid the disputed “most disliked lawful thing” report as your only evidence.
 
-### 1.2 Female Inheritance Shares Across Two Schools — **3.5 Years Overdue (`M/J 2023`)!**
-- **Core Qurʾanic Revolution (`Qurʾan 4:7, 4:11–12`):** Ended pre-Islamic *Jahiliyyah* exclusion of women; female shares are owned **100% individually** by the woman with zero obligation to spend a penny on household maintenance!
-- **Why Daughter Gets Half Her Brother's Share (`Q 4:11`):** **Asymmetrical financial obligations** — the brother carries 100% legal duty (*nafaqah*) for *mahr*, housing, food, and healthcare for wife, children, mother, and unmarried sisters, often leaving the sister **higher net disposable wealth**! *(Plus in several cases—mother `1/6 =` father `1/6` when deceased leaves children, and maternal siblings `Q 4:12`—women inherit **strictly equal** shares to men!)*
-- **Killer Two-School Contrast (`Sunni [Hanafi/Shafiʿi]` vs `Jaʿfari Twelver Shiʾi`):**
-  - Suppose a deceased father leaves **NO son**, only **one daughter** and a distant **male paternal uncle / brother (*ʿasabah*)**:
-    - **Sunni (*Hanafi / Shafiʿi*):** Daughter takes fixed **`1/2`**, and the remaining **`1/2` goes to the male agnate uncle/brother (*ʿasabah*)**!
-    - **Twelver Shiʾi (*Jaʿfari*):** Rejects distant agnate priority — **blood proximity rules**, so the **daughter inherits `100%` of her father's entire estate** (`1/2` fixed + `1/2` return *radd*), excluding the uncle completely! *(Conversely, Jaʿfari denies childless widows inheritance from land itself—paying value of buildings/trees only—whereas Sunni wives take full `1/4` of everything!)*
+### Essential terms
+- **Talaq:** divorce pronounced by the husband or through a valid delegated power. An eligible first/second divorce may be revocable (raj‘i); not every first divorce is automatically revocable.
+- **Khul‘:** compensated release, classically normally consensual; not a label for every court separation.
+- **Faskh:** annulment/dissolution on a recognised legal ground. Grounds and financial consequences vary; do not promise the wife keeps all mahr in every case.
+- **Tafwid:** delegation of a divorce power. A carefully drafted delegation differs from a bare contractual condition.
+- **Ba’in:** irrevocable by simple unilateral return; minor and major irrevocability have different consequences.
+- **‘Iddah:** for the relevant menstruating divorcee, both schools commonly understand three quru’ as menstrual periods. Pregnancy: until delivery; the Qur’anic three-month rule applies to the specified non-menstruating categories, not every irregular cycle. [5]
 
----
+### Paired comparisons to explain
+- **Coerced spoken talaq:** Hanafi generally counts it as legally effective; Hanbali qualifying duress prevents it taking effect. Mughniyya reports these school rules. Ordinary pressure is not automatically legal coercion. [5]
+- **Failure of maintenance:** classical Hanafi inability alone does not ordinarily provide the same dissolution remedy; enforcing support or authorised borrowing can matter. Hanbali allows a wife to seek dissolution for inability to provide required support, subject to conditions. Mughniyya’s comparative account reports this distinction. [6]
+- **Non-pregnant irrevocable divorcee:** Hanafi generally provides maintenance and housing during ‘iddah; standard Hanbali generally neither. Distinguish revocable divorce and pregnancy, where provision duties apply. These are school rules reported by Mughniyya, not rules for every divorced woman. [7]
+- **Khul‘ and divorce count:** Hanafi normally treats it as one irrevocable counted divorce. Hanbali can treat it as faskh with appropriate wording and without talaq intention; different narrations exist. Do not write “every Hanbali khul‘ is faskh”. [25]
 
-### 1.3 Spouse Choice, Prohibited Partners (`Q 4:23`) & Interfaith *Nikah* (Quick Reference)
-- **Free Consent:** Both bride and groom must consent freely (*"A virgin should not be married without her permission"* — Bukhari). **Hanafi:** Adult sane woman may contract her own *nikah* without a male guardian (*wali*), though *kafaʾah* (compatibility) applies. **Shafiʿi / Maliki / Hanbali:** A *wali* (father/qadi) is a required pillar of valid *nikah*, alongside offer/acceptance (*ijab/qabul*), *mahr* (`Q 4:4`), and **2 witnesses** (Sunni requires 2 witnesses at *nikah*; Twelver Shiʾi recommends at *nikah* and requires at *talaq*!).
-- **Interfaith *Nikah* (`Q 2:221` & `Q 5:5`):** Polytheists forbidden for all (`Q 2:221`). Muslim men may marry chaste women of the People of the Book (*Kitabiyyah* — Jewish/Christian, `Q 5:5`) in **Sunni** *fiqh* (with **Shafiʿi** strictly checking family lineage to pre-Qurʾanic scripture; **Twelver Shiʾi** restricts permanent *nikah* with *Kitabiyyah* according to many classical jurists while permitting fixed-term marriage *mutʿah*, which Sunnis unanimously prohibit since Khaybar!). Traditional consensus prohibits Muslim women marrying non-Muslim men (`Q 60:10`, protecting her religious freedom and children's faith), though a few modern reformists debate civil realities in secular states.
+### Triple talaq — agreement plus a named alternative
+Both mainstream classical schools generally count an explicit threefold divorce in one sitting as three. **Ibn Taymiyyah and Ibn al-Qayyim** defend counting one; that is not the standard Hanbali rule. Ordinary anger does not automatically invalidate talaq; neither school normally requires witnesses for its validity. Menstrual talaq is generally sinful yet effective in the mainstream positions. [5, 24, 47]
 
----
----
+**Rapid recall:** define the six terms above. If asked for conditions, identify the legal route and school first; do not recycle an old list containing Ja‘fari witness requirements.
+**AO2 practice:** compare access to relief, financial protection and procedural safeguards. Explain why neither school is always stricter.
 
-# PRIORITY 2 (SECTION A): UNIT `2.1` — DAILY PRAYER (*JAMʿ, TIMINGS & WUDU*)
+## 1.2 Female inheritance — revise well
 
-### ⚡ Instant `5/5` Rapid Bank for `1(a)` / `2(a)` Questions on Unit `2.1`:
-- **6 Situations Where Prayers Are Combined (*Jamʿ*), Shortened (*Qasr*), or Adapted:** (1) Long-distance travel (*safar* — shortening 4-*rakʿah* prayers to 2 and combining `Zuhr+ʿAsr` / `Maghrib+ʿIsha`); (2) Pilgrimage at **ʿArafat** (*Jamʿ Taqdim*: `Zuhr+ʿAsr`) and **Muzdalifah** (*Jamʿ Taʾkhir*: `Maghrib+ʿIsha`); (3) Severe illness or hospital surgery; (4) Heavy rain, snow, flooding, or mud preventing travel to mosque; (5) Fear/danger or extreme hardship (*Ibn ʿAbbas* Hadith in Muslim); (6) Daily routine combining permitted unconditionally in **Twelver Shiʾi** practice.
-- **6 Actions Performed in Ritual Ablution (*Wudu*, `Qurʾan 5:6`):** (1) Sincere intention (*niyyah*) + *Bismillah*; (2) Washing hands to wrists (`3x`); (3) Rinsing mouth & nose (`3x`); (4) Washing full face (`3x`); (5) Washing right then left forearm including elbows (`3x`); (6) Wiping wet hands over head (*masah*) + washing both feet up to ankles (`3x`, Sunni) / wiping bare feet (*Shiʾi*).
+**Evidence:** Qur’an 4:7, 4:11–12 and 4:176. Distribute the net estate after relevant prior claims; state all surviving heirs.
 
----
+**Shared rules:** wife 1/4 without qualifying descendants, 1/8 with them; co-wives share the entitlement. A sole daughter without a son has a 1/2 fixed share; two or more share 2/3 without a son; sons and daughters share residue at 2:1. Actual outcomes depend on the complete heir configuration. Women do not always receive half a man’s share. [8]
 
-### 2.1 Combining Prayers (*Jamʿ*) & Exact Timings of *Fajr, ʿAsr & Maghrib* — **#2 UNTESTED LIVE EXAM GAP!**
-- **Conditions for Combining Prayers (*Jamʿ Bayn al-Salatayn*) Across Schools (`Unit 2.1` Bullet 2!):**
-  - *Fajr* is **NEVER combined** with any other prayer in any school! Only **`Zuhr + ʿAsr`** and **`Maghrib + ʿIsha`** can ever be combined.
-  - **Shafiʿi, Maliki & Hanbali (Sunni Majority):** Permit combining (`Jamʿ Taqdim` early or `Jamʿ Taʾkhir` late) during **valid travel (*safar*, ~80 km)**, **Hajj (`ʿArafat` & `Muzdalifah`)**, **heavy rain/storms**, and **serious illness** (Hanbali even extends to nursing mothers or surgeons unable to leave theater).
-  - **Hanafi (Strictest Sunni School):** Rejects true combining even during normal travel! Only permits true combining on **Hajj at ʿArafat (`Zuhr+ʿAsr`) and Muzdalifah (`Maghrib+ʿIsha`)**; on other journeys, a Hanafi prays the first prayer right at the **end** of its window and the second right at the **beginning** of its window (*apparent combining, jamʿ suri*)!
-  - **Jaʿfari Twelver Shiʾi:** Permits combining **`Zuhr + ʿAsr`** and **`Maghrib + ʿIsha` every single day without needing travel or rain**, citing **Qurʾan 17:78** (identifying **three** primary daily time-zones: dawn, post-zenith, and dusk) and the famous **Sahih Muslim Hadith of Ibn ʿAbbas**: *"The Prophet combined Zuhr and ʿAsr, and Maghrib and ʿIsha in Medina without fear and without rain"* — argued to remove hardship from working Muslims! *(Though praying separately at prime times `fadilah` remains meritorious even in Shiʾi fiqh!)*
-- **Exact School Differences on *Fajr*, *ʿAsr*, and *Maghrib* Timings (`Unit 2.1` Bullet 1!):**
-  1. ***Fajr* (Dawn — 2 *rakʿahs*):** Begins at **true dawn (*al-fajr al-sadiq*)**, when white horizontal light spreads across the horizon (**Qurʾan 2:187**), ending strictly at sunrise. **Shafiʿi** recommends praying *Fajr* early in darkness (*ghalas*); **Hanafi** prefers praying slightly later when light brightens (*isfar*) for larger congregation.
-  2. ***ʿAsr* (Afternoon — 4 *rakʿahs*) — BIGGEST SUNNI TIMING SPLIT:**
-     - **Shafiʿi, Maliki, Hanbali & Jaʿfari:** Begins when an object's shadow equals **`1x` its own length** (plus noon zenith shadow).
-     - **Hanafi (*Abu Hanifa*):** Begins substantially later—only when an object's shadow reaches **`2x` its own length** (`45–60 minutes` later than Shafiʿi!).
-  3. ***Maghrib* (Sunset — 3 *rakʿahs*) — KEY SUNNI VS SHIʾI SPLIT:**
-     - **All Sunni Schools (`Hanafi, Shafiʿi`):** Begins **immediately** once the sun's disc disappears completely below the horizon.
-     - **Jaʿfari Twelver Shiʾi:** Begins ~`12–15 minutes` later, only when the **eastern redness in the sky (*humrah mashriqiyyah*) fades overhead**, affecting both *Maghrib* prayer AND **Ramadan *iftar* fast-breaking**!
+**Case A — only a father and his mother (the deceased’s paternal grandmother):** Hanafi excludes the grandmother through her son. Hanbali allows her 1/6, with the father taking the remainder. Mughniyya cites **Ibn Qudamah’s al-Mughni** for the Hanbali position. [8]
 
----
+**Case B — only a paternal grandfather and one full sister:** **Abu Hanifa** excludes the sister, giving all to the grandfather. Standard Hanbali gives grandfather 2/3 and sister 1/3. **Abu Yusuf and Muhammad al-Shaybani** differ from Abu Hanifa and give 2/3 plus 1/3 in this case. Mughniyya reports the disagreement. [8]
 
-### 2.2 Opinions on Ritual Purification (*Wudu*) Across Two Schools — **4.5 Years Overdue (`M/J 2022`)!**
-- **Foundation (`Qurʾan 5:6`):** Commands washing face, hands/forearms to elbows, wiping head, and washing/wiping feet up to ankles; if sick or lacking water, perform **dry ablution (*tayammum*)** using clean earth/dust on face and hands.
-- **Sharp Two-School Differences (`Hanafi` vs `Shafiʿi` vs `Jaʿfari`):**
-  1. **Intention (*Niyyah*) & Strict Sequence (*Tartib*):** **Fard (obligatory)** in **Shafiʿi** & **Jaʿfari** (out-of-order invalidates *wudu*); **Sunnah (recommended)** in **Hanafi** (washing out of order or falling into a river still purifies!).
-  2. **Amount of Head Wiped:** **Shafiʿi** = even a few hairs suffices; **Hanafi** = **`1/4` of head**; **Maliki** = **whole head**.
-  3. **Feet:** All **Sunni** schools wash bare feet (`3x`) AND allow wiping over leather/thick socks (*khuffayn*) for 24h resident / 72h traveller; **Jaʿfari Shiʾi** strictly **wipes bare feet** with remaining moisture (reading `Q 5:6` case ending as *bi-ruʾusikum wa arjulikum*) and rejects wiping socks!
-  4. **What Breaks *Wudu*:**
-     - **Bleeding / heavy vomiting:** **Breaks *wudu* in Hanafi**, does **NOT** break *wudu* in **Shafiʿi**!
-     - **Skin-to-skin touch between unrelated/married man & woman:** **Breaks *wudu* immediately in Shafiʿi** (`Q 5:6` *"touched women"*), does **NOT** break *wudu* in **Hanafi** unless accompanied by extreme arousal (interpreting *"touch"* metaphorically as intercourse)!
+**Do not reuse the old Sunni–Ja‘fari contrast:** a daughter with a qualifying paternal uncle can receive 1/2 while the uncle takes residue in both Hanafi and Hanbali law. It is not a difference between your chosen schools.
 
-*(Brief Safety Note on `Places of Prayer [s24]` & `Jumuʿah [s26 COLD]`: Clean place *taharah* free from impurities/graveyards/toilets/slaughterhouses since *"the whole earth has been made a mosque"* [Bukhari], facing Qiblah; `Jumuʿah` requires congregation, 2 Arabic *khutbahs* before `2 rakʿahs`, obligatory on adult free healthy resident males `Q 62:9`, optional for women/travellers/sick).*
+**AO2:** relate shares to kinship and financial responsibilities, but do not claim every man maintains every female relative or that every woman is financially better off.
 
----
----
+## 1.3 Marriage and prohibited partners — backup coverage
 
-# PRIORITY 3 (SECTION A): UNIT `2.3` — FINANCE, DEBT, *RIBA* & EMPLOYMENT
+- **Wali:** Abu Hanifa’s adult sane woman’s independent contracting capacity is reported by al-Marghinani, with compatibility, mahr and guardians’ rights qualifying the rule. Hanbali requires a wali. This does not mean the woman’s wishes are irrelevant. [4, 13, 43]
+- **Witnesses for Muslim marriage:** Hanafi accepts two qualified men OR one man and two women; standard Hanbali requires two qualified male Muslim witnesses. Mughniyya reports these positions. [4]
+- **Mahr:** Hanafi classical minimum ten silver dirhams; Hanbali has no equivalent fixed monetary minimum. An unspecified amount does not automatically invalidate the contract. The entitlement belongs to the wife (Qur’an 4:4). [33]
+- **Beneficial stipulations:** Hanbali gives broader enforceability to valid conditions such as not moving the wife from her town, with a remedy for breach. A bare Hanafi stipulation does not automatically create the same right; delegated/conditional divorce is a distinct mechanism. [14]
+- **Milk kinship:** Hanafi does not require five feeds; standard Hanbali requires five qualifying feeds within two lunar years. Abu Hanifa’s nursing-age limit is thirty months; Abu Yusuf and Muhammad hold two years. [15, 16, 23]
+- **Shared prohibitions:** specified blood, marriage and milk relatives (Qur’an 4:23); cousins are not automatically prohibited. Both traditionally permit a Muslim man to marry a qualifying chaste Jewish/Christian woman with conditions and possible discouragement, prohibit a Muslim woman marrying a non-Muslim man, and prohibit temporary mut‘ah marriage. [33]
 
-### ⚡ Instant `5/5` Rapid Bank for `1(a)` / `2(a)` Questions on Unit `2.3`:
-- **6 Principles of Lawful Employment:** (1) Clear mutual contract stating duties & hours; (2) Fair agreed wage paid promptly (*"Give the worker his wages before his sweat dries"* — Ibn Majah); (3) Safe humane working conditions without exploitation; (4) Work itself must be *halal* (avoiding *riba*, alcohol, gambling, pork, fraud); (5) Honest diligence by employee (`Q 83:1–3`); (6) Reasonable accommodation for *Salah*, *Jumuʿah*, and *Ramadan*.
-- **6 Modern Examples of *Riba* / Forbidden Finance:** (1) Conventional interest-bearing home mortgages; (2) Credit card overdue interest charges; (3) High-interest payday loans; (4) Conventional interest savings accounts/bonds; (5) Delayed debt penalty surcharges (*riba al-nasiʾah*); (6) Unequal spot exchange of gold/silver/staple commodities (*riba al-fadl*) & excessive speculative uncertainty (*gharar* / gambling *maysir*, `Q 5:90`).
+**Rapid recall:** mothers; daughters; sisters; aunts; nieces; specified marital/milk relatives. “Two sisters simultaneously” is a temporary combination impediment, not a permanent prohibition of either woman in isolation.
 
----
+# PRIORITY 2 — WORSHIP (Units 2.1 and 2.4)
 
-### 3.1 Employment in Different Local Contexts (`O/N 2021` — **5 FULL YEARS OVERDUE!**)
-- **Scriptural Ethics:** Work is honoured as worship when honest (Prophets Dawud worked iron, Musa tended flocks, Muhammad (PBUH) traded honestly as *al-Amin* with Khadijah). **Qurʾan 4:29** bans consuming wealth unjustly; **Hadith Qudsi [Bukhari]** warns Allah personally opposes on Judgment Day *"a man who employs a labourer, takes full work from him, and does not pay his wage."*
-- **Navigating Diverse Local Contexts (Muslim-Majority vs Non-Muslim / Secular Economies):**
-  - **Strict View (*Hanbali / Salafi* & Classical Jurists):** Cites Hadith cursing **ten groups around alcohol** (producer, carrier, seller, pourer, buyer — Tirmidhi) to forbid even **indirect jobs** such as stacking pork/alcohol shelves in a Western supermarket, driving delivery trucks containing beer, or IT/accounting inside a conventional bank.
-  - **Contextual / Pragmatic View (*Hanafi* distinction + Modern *Fiqh* Councils e.g. *European Council for Fatwa & Research / Yusuf al-Qaradawi*):** **Abu Hanifa** historically distinguished direct sin from general mixed transactions outside *Dar al-Islam*; contemporary jurists allow Muslims in minority countries to hold general retail/hospitality/tech jobs where *haram* items are incidental while actively seeking pure *halal* work, upholding local employment contracts (*"Muslims are bound by their conditions"*), and negotiating prayer breaks courteously.
+## 2.1 Combining and timings — learn deeply
 
----
+**True jam‘:** Zuhr with ‘Asr, or Maghrib with ‘Isha, in one prayer period under the school’s conditions. **Jam‘ suri:** first at the end of its own period and second at the beginning of its own period. **Qasr:** shortening eligible four-rak‘ah prayers to two; not the same as combining. Fajr is not combined. [9, 11]
 
-### 3.2 Debt, Usury/Interest (*Riba*) & Modern Mortgages (`O/N 2023` — **3 YEARS OVERDUE!**)
-- **Qurʾanic Prohibition of *Riba* (`Qurʾan 2:275–280`, `3:130`):** Strongest warning in the entire *Qurʾan*—notice of **war from Allah and His Messenger** (`Q 2:279`) because *riba* transfers guaranteed wealth to the rich while crushing the poor in risk, violating brotherhood and justice! Conversely, **Qurʾan 2:282** commands putting all future debts in **written contracts witnessed by two witnesses**, and **Qurʾan 2:280** urges **granting extra time or forgiving debt as charity** if a debtor is in hardship!
-- **Three Halal Islamic Banking Alternatives to Mortgages:**
-  1. ***Murabaha* (Cost-Plus Sale):** Bank buys house for `$200k` and sells it to client at fixed agreed `$260k` paid in fixed instalments (true trade `Q 2:275`: *"Allah permitted trade and forbade riba"*).
-  2. ***Musharaka Mutanaqisa* (Diminishing Partnership) + *Ijara* (Lease):** Bank and buyer co-own property; buyer pays fair rent on bank's share while gradually buying out equity until owning `100%`.
-  3. ***Qard Hasan*:** Zero-interest benevolent loan!
-- **AO2 Debate on Conventional Mortgages in the West:**
-  - **Strict Majority:** Conventional mortgages are pure *riba* (`haram`); renting is completely lawful so there is no life-threatening *darurah*; critics also debate whether some Islamic mortgages merely mimic interest rates in disguise.
-  - **Minority / Contextual Fatwa (*Yusuf al-Qaradawi, ECFR*, & *Hanafi* overseas rule):** Permits **one primary family residence mortgage** (never investment properties!) **ONLY when zero halal Islamic mortgage exists locally**, invoking *hajah / darurah* (shelter security so families don't bleed wealth into lifelong rent) and *al-Ghazali's maqasid* protection of family and wealth (`hifz al-mal`).
+**Hanafi:** true combination normally restricted to the specified Hajj combinations at ‘Arafat and Muzdalifah, under their conditions; ordinary travel does not automatically permit it. **Hanbali:** qualifying travel, illness and recognised hardship allow broader combinations; weather concessions have details, not blanket permission at every rainy moment. Dorar reports the comparison; the Hanafi explanation in [11] distinguishes apparent combination.
 
----
----
+**Fajr:** shared valid window, true dawn to sunrise. **Al-Quduri** records the Hanafi preference for clearer dawn light (isfar). **Ibn Qudamah** prefers prayer at the beginning of its time in the Hanbali account, subject to specified exceptions. Preference is not a different validity window. [37, 38]
 
-# PRIORITY 4 (SECTION A): UNITS `2.4` & `2.5` — FIQH SCHOOLS & SOURCES OF *SHARIAH*
+**‘Asr:** Abu Hanifa’s well-known position is twice the object’s height **in addition to** its noon shadow. Abu Yusuf and Muhammad hold once plus noon shadow; this agrees with the Hanbali rule here. Al-Quduri explicitly identifies the two students. A 1 m object with 0.2 m noon shadow gives **2.2 m versus 1.2 m**, not fixed clock-minute differences. [17, 37, 38]
 
-### ⚡ Instant `5/5` Rapid Bank for `1(a)` / `2(a)` Questions on Units `2.4–2.5`:
-- **5 Major Schools of Jurisprudence (*Fiqh*):** (1) **Hanafi** (*Imam Abu Hanifa*, d. 767, Iraq — largest Sunni school, *qiyas* & *istihsan*); (2) **Maliki** (*Imam Malik ibn Anas*, d. 795, Medina — *Al-Muwatta* & *ʿamal ahl al-Madinah*); (3) **Shafiʿi** (*Imam al-Shafiʿi*, d. 820 — *Al-Risala*, strict *Qurʾan + Sahih Sunnah + Ijmaʿ + Qiyas*); (4) **Hanbali** (*Imam Ahmad ibn Hanbal*, d. 855 — *Musnad*, strictest textualist); (5) **Jaʿfari** (*Imam Jaʿfar al-Sadiq*, d. 765 — Twelver Shiʾi school: *Qurʾan + Sunnah via Infallible Imams + Ijmaʿ + ʿAql*).
-- **5 Secondary Sources / Criteria for Hadith:**
-  - *Secondary sources:* (1) Scholarly consensus (*ijmaʿ*); (2) Analogical deduction (*qiyas* — Sunni); (3) Reason/intellect (*ʿaql* — Shiʾi); (4) Local custom (*ʿurf*); (5) Habits of the People of Medina (*ʿamal ahl al-Madinah*) or *Sahaba* / juristic preference (*istihsan*) / public interest (*maslahah*).
-  - *Hadith classification:* (1) Chain of transmitters (*isnad*); (2) Text content (*matn*); (3) Narrator uprightness (*ʿadalah*) & exact memory (*dabt*); (4) *Sahih* (authentic) & *Hasan* (good); (5) *Daʿif* (weak) & *Mawduʿ* (fabricated).
+**Maghrib:** both begin at sunset. Do not import the old Sunni–Shi‘i sunset-delay example.
 
----
+**Recall bank:** identify which concession applies in travel, the specified Hajj combinations, qualifying illness, qualifying weather and relevant hardship; then state the school and conditions. These are not six universal reasons for every school to combine.
 
-### 4.1 Primary Sources (*Qurʾan & Sunnah*) + Strong (*Sahih*) vs Weak (*Daʿif*) Hadith (`O/N 2023` — **3 YEARS OVERDUE!**)
-- **Partnership of *Qurʾan* & *Sunnah*:** The *Qurʾan* is Allah’s verbatim, unalterable revelation and supreme source (`Q 15:9`); the *Sunnah* (preserved in Hadith—e.g. Sunni *Kutub al-Sittah* led by **Bukhari** & **Muslim**, and Shiʾi *Four Books* led by **al-Kafi**) **explains, specifies, and models** general *Qurʾanic* commands (`Q 16:44`, `Q 59:7` — e.g. how to perform *Salah* and calculate `2.5%` *Zakat*).
-- **How Schools Treat *Sahih* vs *Daʿif* Hadith:**
-  - ***Sahih* (Authentic — unbroken chain of pious, accurate narrators with no hidden defect or contradiction of Qurʾan):** Binding legal proof across all schools! **Imam al-Shafiʿi** in *Al-Risala* established authenticated Prophetic *Sunnah* as indisputable revelation alongside the *Qurʾan*. **Jaʿfari Shiʾas** require transmission through the **infallible *Ahl al-Bayt* Imams** rather than Companions who opposed *ʿAli*.
-  - ***Daʿif* (Weak — gap in chain or narrator memory weakness, NOT fabricated *mawduʿ*):**
-    - **Strict Rejection (*Imam Muslim*, *Ibn Hazm*, modern *Salafi* Hadith scholars like *al-Albani*):** Never act on *daʿif* Hadith when *Qurʾan* and thousands of *sahih* Hadiths suffice completely!
-    - **Qualified Sunni Acceptance:** **Imam Ahmad ibn Hanbal** & **Abu Dawud** preferred a mildly weak Prophetic report over pure human personal opinion (*raʾy*) where no other text existed; **Imam al-Nawawi / Ibn Hajar** permitted *daʿif* ONLY to inspire **virtuous already-established good deeds (*fadaʾil al-aʿmal*)**, **NEVER** to establish *halal/haram* or creed (*ʿaqidah*), and only while disclosing its weakness.
+## 2.2 Wudu — learn deeply
 
----
+**Evidence:** Qur’an 5:6. **Al-Quduri** documents the Hanafi rules; **al-Hajjawi’s Zad al-Mustaqni‘**, quoted with Ibn ‘Uthaymin’s commentary, documents the standard Hanbali obligation set below. [20, 37]
 
-### 4.2 Direct Comparison of Two Schools of *Fiqh* (`Hanafi vs Shafiʿi` OR `Sunni vs Jaʿfari`) — **3.5 Years Overdue (`M/J 2023`)!**
-- **Shared Core (`Similarities`):** Every orthodox school shares `90%+` of foundational *shariah*—treating the *Qurʾan* and Prophetic *Sunnah* as supreme primary authorities, upholding the Five Pillars, core *halal/haram*, and sincere *ijtihad* (*"If a mujtahid strives and gets it right he gets two rewards; if mistaken, one reward"* — Bukhari).
-- **Sharp Methodological Contrast (`Differences`):**
-  1. **Hanafi vs Shafiʿi:** **Abu Hanifa** wrote in urban cosmopolitan Kufa (*ahl al-raʾy*), making extensive use of **analogical deduction (*qiyas*)**, **juristic preference (*istihsan* — setting aside rigid analogy to avoid hardship)**, and **local custom (*ʿurf*)**, while scrutinising solitary (*ahad*) Hadiths against wider *Qurʾanic* principles; **al-Shafiʿi** (*Al-Risala*) synthesised Kufa and Medina, insisting every legal ruling tie strictly to *Qurʾan*, authenticated *Sahih Sunnah*, universal *Ijmaʿ*, or disciplined *Qiyas*, rejecting loose *istihsan* (*"Whoever uses istihsan legislates for himself"*).
-  2. **Sunni Schools vs Jaʿfari Twelver Shiʾi:** Sunnis close divine guidance at Muhammad’s death and rely on *Sahaba* Hadith + *Qiyas*; **Jaʿfari** includes the teachings of the **12 Infallible Imams** inside the *Sunnah*, **rejects *Qiyas*** as uncertain guesswork (following **Imam Jaʿfar al-Sadiq**), replaces it with **structured human intellect (*ʿaql*: *"Whatever reason judges, shariah judges"*)**, and requires **living ongoing *ijtihad* under a senior *Marjaʿ* (*Ayatollah*)** whom lay believers follow (*taqlid*).
+- **Intention:** Hanafi Sunnah for wudu, not a validity condition; Hanbali required.
+- **Sequence:** Hanafi Sunnah; Hanbali obligatory.
+- **Continuity:** Hanafi recommended; Hanbali obligatory under its rules.
+- **Head:** Hanafi quarter-head minimum, with the whole Sunnah; Hanbali whole head required.
+- **Mouth/nose and ears:** Hanafi Sunnah in wudu; standard Hanbali obligatory. Mouth/nose are obligatory in Hanafi ghusl, which is a different case.
+- **Bare feet:** both wash feet including ankles. One complete wash can discharge the washing obligation; three is Sunnah completion, not three obligatory washes.
 
----
+**A real internal difference:** **Ibn Qudamah’s ‘Umdat al-Fiqh** lists ear-wiping as Sunnah. Reports from **Ahmad** also differ, including accounts transmitted through al-Khallal and Harb. Do not ascribe al-Hajjawi’s obligation rule to every Hanbali authority. [38, 42, 48]
+
+### Nullifiers — avoid transferring Shafi‘i rules
+- **Touch alone:** Hanafi ordinary contact does not itself nullify wudu. Standard Hanbali relevant skin contact with desire nullifies it; without desire, it does not. Discharge has separate rules. [18, 37, 38]
+- **Direct genital contact:** Hanafi touch alone does not nullify; Hanbali relevant direct hand contact without a barrier does in the standard position. [19, 36, 38]
+- **Camel meat:** does not nullify Hanafi wudu; does nullify Hanbali wudu. [26, 38]
+- **Blood/vomit:** Hanafi flowing blood beyond the wound and mouthful vomiting nullify. Classical Hanbali large relevant impure discharge can also nullify; its test is not identical. Do not substitute the old Shafi‘i non-invalidation rule or an unnamed later preference. [26, 37, 38]
+
+**Application:** explain why washing without ritual intention, out of order and with a quarter-head wipe can meet Hanafi minimums but fail Hanbali ones. Then distinguish legal validity from recommended completion.
+
+## 2.3 Friday and places of prayer — retain coverage
+
+**Shared conditions:** relevant purity, removal of impurity, covering ‘awrah, facing qiblah, intention and valid time. Learn the school’s specific rules for unsuitable places; do not invent a universal ban on every location or identical sermon-language conditions.
+
+**Friday:** sermon(s) and two congregational rak‘ahs; obligatory for qualifying adult Muslim men with recognised exemptions. Qur’an 62:9 commands responding to the call and leaving trade.
+
+**Numbers:** Abu Hanifa and Muhammad require three qualifying men besides the imam; Abu Yusuf two. The commonly taught Hanbali classical count is forty qualifying settled resident men including the imam, with alternatives in the school. A number alone does not satisfy every condition. [10, 41]
+**Time:** Hanafi after zenith; Hanbali permits pre-zenith performance, with differing earliest-time accounts. Al-Khiraqi and Ibn Qudamah prefer the sixth hour in the report cited by Dorar. [10]
+
+# PRIORITY 3 — FINANCE AND EMPLOYMENT (Unit 2.3)
+
+## 3.1 Shared ethics and local employment
+
+Both schools prohibit riba, fraud, deception and unjust consumption (Qur’an 2:275, 4:29). Explain the work actually done, clear lawful duties, fair agreed pay, fulfilment of contracts, humane treatment and access to religious duties.
+
+**Do not reuse “Hanbali strict / Hanafi permits overseas jobs” as a blanket rule.** Direct participation in a prohibited transaction, a mixed employer, necessity and lawful alternatives require separate analysis. A country’s name, a bank’s IT department or a general retail job does not alone settle every case. Attribute a modern concession to its named scholar and actual conditions; it is not automatically the founder’s rule.
+
+**Rapid recall:** clear duties; agreed pay; timely payment; no exploitation; honest performance; lawful activity. Distinguish ethical principles from a list of school-specific validity conditions.
+
+## 3.2 Debt, riba and mortgages — apply confidently
+
+**Qur’an 2:275–280:** prohibition of riba and relief for distressed debtors. **2:282:** recording deferred obligations and witnessing. A condition increasing a money loan for time is not the same contract as a genuine sale at an agreed deferred price.
+
+**Examples:** interest-bearing loan/mortgage, interest on overdue credit-card debt, interest-bearing bonds or deposits. Gharar and gambling are separate prohibitions, not definitions of riba. Unequal exchange restrictions depend on the commodities and the school’s rules; not every unequal trade is riba.
+
+**Potential lawful structures:** a genuine murabaha sale requires ownership and the relevant risk before resale; diminishing partnership/lease must allocate ownership, rent and responsibilities properly; qard hasan is a benevolent interest-free loan. A product label or resemblance to an interest rate does not by itself prove validity or invalidity.
+
+**Mortgage evaluation:** identify the actual contract, interest, ownership and risk. Both schools prohibit riba; neither gives automatic permission for a conventional home mortgage. Necessity/need exceptions are disputed and conditional. Do not reuse the old blanket “Hanafi overseas rule” as your comparison.
+
+## 3.3 A secure trade difference: khiyar al-majlis
+
+**Hanafi — al-Kasani/al-Marghinani:** valid offer and acceptance normally bind the sale unless another cancellation right applies; remaining together alone is insufficient. **Hanbali — Ibn Qudamah:** a session option remains until separation or its qualified termination/waiver. These authors are cited in the comparative study [12].
+
+**AO2 case:** a buyer changes their mind before leaving. Explain session-option versus defect/agreed-option rights. In job/mortgage questions, prioritise the actual ethical and contractual issue rather than forcing this example into the answer.
+
+# PRIORITY 4 — SCHOOLS AND SOURCES (Units 2.4–2.5)
+
+## 4.1 Your selected pair and scholarly attribution
+
+**Hanafi:** Abu Hanifa (d. 767), Kufa; Abu Yusuf and Muhammad al-Shaybani helped develop the school and sometimes disagree with him. **Hanbali:** Ahmad ibn Hanbal (d. 855), Baghdad; prominent Hadith authority associated with his Musnad.
+
+Later school expositors can document the comparison: al-Quduri for Hanafi law; al-Hajjawi and Ibn Qudamah for Hanbali law. A founder’s opinion, a riwayah attributed to him, a later derivation and a relied-upon school position are not interchangeable. The comparative author Mughniyya is a reporter of many school rules, not their originator. [20, 37, 38]
+
+## 4.2 Primary sources and Hadith quality
+
+**Qur’an:** primary revelation; understand progressive revelation, Meccan/Medinan context, general/specific commands and interpretation. **Sunnah:** Prophetic teaching and practice, known through reports; explains and specifies Qur’anic commands. Applying evidence requires interpretation, not simply locating a quotation. [1]
+
+**Sahih:** connected chain, upright and precise transmitters, no disqualifying irregularity or hidden defect. **Hasan:** accepted reports with a lower precision level under the relevant classification. **Da‘if:** requirements not met; not synonymous with fabricated (mawdu‘). Assess isnad and matn; scholars may differ in grading and legal interpretation.
+
+**Hanafi:** systematic legal reasoning does not mean rejecting Hadith. **Ahmad:** associated with preferring certain usable reports described as weak/mursal over unsupported opinion or analogy where no stronger contrary evidence exists. Early labels do not exactly match every later classification. This is not acceptance of fabricated reports or all weak reports. [21]
+
+## 4.3 Secondary sources and comparison method
+
+- **Ijma‘:** authoritative consensus; Ahmad is cautious about unsupported claims of consensus.
+- **Qiyas:** extending a rule through a shared effective cause (‘illah). Both schools use it; Hanbali transmission-priority does not equal rejecting all analogy.
+- **Istihsan:** principled departure from an apparent analogy for stronger legal justification; prominent in Hanafi reasoning, not personal preference or ease alone.
+- **Companions/followers:** understand their transmitted interpretations and legal precedents; not all reports have the same weight.
+- **‘Urf:** lawful custom, especially contractual meaning; recognised under conditions by both, never an automatic override of revelation.
+- **Wider source vocabulary:** still know the syllabus’s Medinan practice (‘amal ahl al-Madinah) and reason (‘aql) as source questions require. Distinguish special Medinan practice from ordinary local custom; learning these concepts does not change your selected fiqh pair. [1, 21]
+
+**Direct comparison paragraph:** shared Qur’an/Sunnah foundation; a named practical difference; its evidence or interpretation; practical effect; judgement about extent. Avoid “Hanafi = reason, Hanbali = Hadith” and invented percentages of agreement.
+
+**AO1:** issue > Hanafi rule + attribution > Hanbali rule + attribution > explanation.
+**AO2:** define > similarities > differences > judged conclusion; for a statement, give arguments, counterarguments and a weighed answer. Neither formula guarantees a mark.
+
 ---
 
 # PART II: SECTION B (`25 Marks` — Choose `Question 3` OR `Question 4`)
@@ -277,3 +286,41 @@
        - **Hadith 2 [Bukhari & Muslim]:** *"Whoever wishes that his provision be expanded and his lifespan prolonged, let him maintain ties of kinship (*silat al-rahim*)"* — plus **secret charity (*sadaqah*) wards off calamity**!
     2. **Absolute / Eternal Decree (*al-Qada al-Mubram* — *Umm al-Kitab / Lawh al-Mahfuz*):** Allah’s timeless, all-knowing foreknowledge outside time, which **ALREADY eternally foresaw and included the person’s *duʾa*, charity, and the resulting change**!
   - **Killer Level 5 Evaluation Insight:** Therefore, *duʾa* and moral action NEVER "surprise" God or defeat *Qadar*—**duʾa is itself part of *Qadar*, wrestling with affliction like a shield meeting an arrow** (*Ibn Qayyim*)! This completely eliminates fatalistic laziness (*tawakul*), inspiring dynamic trust plus action (*"Tie your camel first, then put your trust in Allah"* — Tirmidhi)!
+
+
+# Sources — corrected Section A
+
+Numbered citations refer to the school-comparison sources below. Section B is retained from the earlier notes; this register documents the corrected Section A material.
+
+- **[1]** [Cambridge 9488 syllabus, 2024–2026: Paper 2, printed pp. 17–19](https://www.cambridgeinternational.org/Images/636058-2024-2026-syllabus.pdf)
+- **[4]** [M. J. Mughniyya reports: marriage contract and witnesses](https://al-islam.org/marriage-according-five-schools-islamic-law-muhammad-jawad-mughniyya/marriage-contract-and-its)
+- **[5]** [M. J. Mughniyya reports: divorce and legal capacity](https://al-islam.org/five-schools-islamic-law-muhammad-jawad-mughniyya/divorce)
+- **[6]** [M. J. Mughniyya reports: judicial dissolution](https://al-islam.org/divorce-according-five-schools-islamic-law-muhammad-jawad-mughniyya/court-divorce-talaq-al-qadi)
+- **[7]** [M. J. Mughniyya reports: maintenance after divorce](https://al-islam.org/marriage-according-five-schools-islamic-law-muhammad-jawad-mughniyya/right-maintenance)
+- **[8]** [M. J. Mughniyya reports: inheritance, grandfather and return](https://al-islam.org/five-schools-islamic-law-muhammad-jawad-mughniyya/9-inheritance)
+- **[9]** [Dorar comparative fiqh: combining prayers](https://dorar.net/en/feqhia/117)
+- **[10]** [Dorar comparative fiqh: Friday prayer conditions](https://dorar.net/en/feqhia/123)
+- **[11]** [Hanafi explanation of apparent and true combination](https://seekersguidance.org/answers/hanafi-fiqh/combining-prayers-hanafi-school-possible/)
+- **[12]** [Habib ur Rahman, Amanullah and Mohiuddin: sale-session option; cites al-Kasani/al-Marghinani, al-Hattab and Ibn Qudamah](https://www.iefpedia.com/english/wp-content/uploads/2017/09/Khiyar-Al-Majlis-Option-of-Withdrawal-before-Parting-in-Sale-Contract-Contemporary-Applications.pdf)
+- **[13]** [Hanafi marriage without a guardian: qualifications](https://seekersguidance.org/answers/hanafi-fiqh/minimum-steps-must-taken-marriage-valid/)
+- **[14]** [M. J. Mughniyya reports: conditions stipulated by a wife](https://al-islam.org/marriage-according-five-schools-islamic-law-muhammad-jawad-mughniyya/stipulation-conditions-wife)
+- **[15]** [Hanafi and other views on milk kinship: number of feeds](https://seekersguidance.org/answers/hanafi-fiqh/breastfeeding-leading-to-mahram-relationship/)
+- **[16]** [Hanafi internal disagreement on the nursing age limit](https://seekersguidance.org/answers/hanafi-fiqh/is-there-an-age-limit-to-breastfeeding-a-child/)
+- **[17]** [Prayer times: the two shadow calculations for Asr](https://praytimes.org/docs/calculation)
+- **[18]** [Comparative discussion: touching a woman and wudu](https://islamqa.info/en/answers/76115)
+- **[19]** [Comparative discussion: touching the private organ](https://islamqa.info/en/answers/82759)
+- **[20]** [Al-Hajjawi, Zad al-Mustaqni‘, obligatory wudu parts, quoted with Ibn ‘Uthaymin’s commentary](https://islamqa.info/en/answers/153791/is-it-obligatory-to-rinse-the-mouth-and-nose-in-wudu)
+- **[21]** [Hanbali-associated methodology and usable weak reports](https://sunnahmuakada.wordpress.com/2013/02/08/the-principles-of-the-hanbali-madhhab-an-introduction/)
+- **[23]** [Hanbali nursing conditions](https://islamqa.org/hanbali/hanbalidisciples/153915/)
+- **[24]** [Triple divorce: majority position distinguished from alternatives](https://www.islamweb.net/en/fatwa/533128/three-divorces-pronounced-after-intimacy)
+- **[25]** [M. J. Mughniyya reports: khul and its wording](https://al-islam.org/divorce-according-five-schools-islamic-law-muhammad-jawad-mughniyya/al-khul)
+- **[26]** [Mohamed Baianonie, Differences in Fiqh Made Easy: comparative purification/prayer handbook](https://raleighmasjid.org/wp-content/uploads/2019/01/Differences_in_Fiqh_Made_Easy.pdf)
+- **[33]** [M. J. Mughniyya reports: minimum mahr and kinship](https://ijtihadnet.com/wp-content/uploads/Marriage-according-to-the-Five-Schools-of-Islamic-Law1.pdf)
+- **[36]** [Hanafi non-nullification by touching the private parts](https://islamqa.org/hanafi/qibla-hanafi/35866/does-touching-ones-private-part-invalidate-wudu/)
+- **[37]** [Al-Quduri, Mukhtasar: purification and prayer; English translation (Friday attribution cross-checked against [41])](https://thewiseword.co.uk/wp-content/uploads/2020/09/Mukhtasar-al-Quduri-English.pdf)
+- **[38]** [Ibn Qudamah, Umdat al-Fiqh: ablution and its nullifiers (one selected Hanbali account, not every later standard rule)](https://dn710709.ca.archive.org/0/items/Umdat-ul-fiqh-IbnQudamah/Umdat-ul-fiqhBazPublishing.pdf)
+- **[41]** [Nabil Ahmed, reviewed by Abdul Waheed: Friday minimum; quotes al-Kasani, Bada’i al-Sana’i, prayer/Friday, 1:268](https://jknfatawa.co.uk/the-minimum-number-of-congregants-for-jumuah/)
+- **[42]** [Hanbali ear-wiping alternatives: quotes Ibn Qudamah, al-Mughni 1:90, and al-Khallal’s reports from Ahmad](https://islamqa.info/en/answers/115246/is-wiping-the-ears-compulsory-in-wudu)
+- **[43]** [Female agency in Hanafi marriage: al-Marghinani and Ibn Abidin, Radd al-Muhtar; historical qualifications](https://themaydan.com/2019/12/female-agency-in-marriage-in-the-%E1%B8%A5anafi-school-of-law-between-damascus-and-transoxiana/)
+- **[47]** [Triple divorce: cites Ibn al-Qayyim, Zad al-Ma‘ad, defending the one-divorce position; distinguishes disputed early attributions](https://www.islamweb.org/en/fatwa/533695/are-three-divorces-considered-as-one)
+- **[48]** [Hanbali ear-wiping report: Ibn Hubayrah transmits obligation from Ahmad through Harb](https://islamqa.info/en/answers/427571/it-is-prescribed-to-wipe-the-ears-when-doing-wudu)
