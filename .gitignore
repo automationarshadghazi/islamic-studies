@@ -4,3 +4,7 @@ sources/download_report.json
 .venv/
 __pycache__/
 *.pyc
+node_modules/
+dist/
+playwright-report/
+test-results/

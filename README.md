@@ -82,3 +82,14 @@ python -m venv .venv
 ```
 
 Research cut-off: **29 October 2026**. All old Paper 1/2 materials have been removed from the current branch tree at the user's request; this does not rewrite historical Git commits. No pull-request merge is authorised or performed.
+
+## Revision website — The Study Room
+
+A mobile-friendly parchment, dark-red and white study website is included. It offers readable Paper 3/4 notes, search, topic review markers, syllabus checklists, a filtered past-paper explorer, a timed practice room, browser-local drafts, hidden guidance and PDF downloads.
+
+- **Ready-to-host build:** `Study_Room_Website_VPS.zip` (finished static website, not the older revision-content ZIP).
+- **Deployment instructions:** [DEPLOY.md](DEPLOY.md).
+- **Rebuild:** `npm ci && npm run build` with Node.js 22+; serve the resulting `dist/` folder using Caddy or Nginx.
+- **Preview:** `npm start`, then open port 3000.
+
+No database, accounts, analytics or live API is required. Browser-local progress is not exam-readiness scoring. Original-paper/review limitations remain visible throughout the site.
