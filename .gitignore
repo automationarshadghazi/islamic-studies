@@ -1,0 +1,6 @@
+# Public originals may be collected locally, but are not part of the authored pack.
+sources/originals/
+sources/download_report.json
+.venv/
+__pycache__/
+*.pyc

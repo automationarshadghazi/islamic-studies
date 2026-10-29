@@ -1,0 +1,51 @@
+{
+  "audit_groups": 70,
+  "marked_prompts": 110,
+  "indexed_resources": 51,
+  "original_pdfs_locally": 0,
+  "checks": "passed: counts, coverage, glyphs, bounds, bookmarks, local links, old-file removal",
+  "pdfs": [
+    {
+      "file": "README.pdf",
+      "pages": 4,
+      "bookmarks": 9,
+      "links": 20
+    },
+    {
+      "file": "notes/01_Past_Paper_Audit_and_Predictions.pdf",
+      "pages": 22,
+      "bookmarks": 25,
+      "links": 121
+    },
+    {
+      "file": "notes/02_Paper3_Revision_Notes.pdf",
+      "pages": 16,
+      "bookmarks": 33,
+      "links": 9
+    },
+    {
+      "file": "notes/03_Paper4_Revision_Notes.pdf",
+      "pages": 19,
+      "bookmarks": 45,
+      "links": 12
+    },
+    {
+      "file": "notes/04_Practice_Papers_and_Answer_Guide.pdf",
+      "pages": 17,
+      "bookmarks": 32,
+      "links": 2
+    },
+    {
+      "file": "notes/05_Paper3_Practice_Paper.pdf",
+      "pages": 2,
+      "bookmarks": 3,
+      "links": 0
+    },
+    {
+      "file": "notes/06_Paper4_Practice_Paper.pdf",
+      "pages": 1,
+      "bookmarks": 1,
+      "links": 0
+    }
+  ]
+}

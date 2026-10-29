@@ -1,0 +1,4 @@
+reportlab==5.1.0
+Markdown==3.11.2
+beautifulsoup4==4.15.0
+pymupdf==2.0

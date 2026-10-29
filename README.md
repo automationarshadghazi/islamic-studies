@@ -1,36 +1,84 @@
-# Cambridge AS Level Islamic Studies — Paper 2 (`9488/22`) Complete Pack
-### **Exam Date & Time:** **`Tuesday, 27 October 2026 at 08:00 AM`** (`1h 30m` • `50 Marks` • **100% Choice in Both Sections**)
-### **Score Target:** **`42–48 / 50`** *(Combined with `~35/50` in Paper 1 → **`77+ / 100` = Full AS Grade `a`**! `32/50` = **Grade `b`**)*
+# Islamic Studies 9488 — A Level Papers 3 & 4
 
-> **School-choice correction — 24 October 2026:** the main revision notes now use **Hanafi and Hanbali throughout Section A**. Wider Shi‘i and other perspectives remain in Section B as required. The separate master-plan/mock pack is older material and has not been converted: use the corrected revision notes, not its alternative-school examples, for your chosen pair. Predictions and score targets are not guarantees; follow the revised PDF bookmarks.
+## October/November 2026 revision pack
 
----
+**Start here:** the [past-paper audit and cautious priorities](notes/01_Past_Paper_Audit_and_Predictions.pdf), then the notes for each paper. This is independent revision material, not Cambridge-endorsed or a claim to know the unseen examination.
 
-## 📱 1-Tap Phone-Ready PDF Downloads (100% Valid, Zero-Defect Mobile Edition)
-1. 📋 **[`README.pdf` (Quick Dashboard & Day-by-Day Schedule `21–27 Oct`)](./README.pdf)** — Clean printable/mobile summary of your exact score targets, daily page-by-page plan, and direct resource links.
-2. 📗 **[`Paper2_Predicted_Syllabus_Revision_Notes.pdf` (28 Pages — Hanafi–Hanbali Section A + Wider Section B)](./Paper2_Predicted_Syllabus_Revision_Notes.pdf)** — Priority-ordered notes with corrected Hanafi–Hanbali rulings, recall prompts, named scholarly attributions and clickable Section A references. Section B retains its wider syllabus perspectives.
-3. 🎯 **[`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf` (15 Pages — Full Audit, `50/50` Formulas & Mock Papers)](./Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf)** — Exact `21–27 Oct` schedule, complete `2021–June 2026` forensic table, `D-S-D-J` & `D-A-C-W` essay templates, Predicted Papers `2A` & `2B`, and a full `50/50` model script.
+### Downloads
 
----
-
-## 🗓️ Exact Day-by-Day Revision & Sleep Plan (`Wed 21 Oct 22:27` → `Tue 27 Oct 08:00 AM`)
-> **CIRCADIAN RULE FOR AN `08:00 AM` EXAM:** Sleep **`22:30 – 06:15` every single night starting RIGHT NOW (`Wed 21 Oct`)** so your brain automatically wakes sharp and hits peak focus at **`08:00 AM`** on Tuesday morning! Keep study to **`2.5–3 focused hours/day max`**.
-
-| Date | Exact Revision Targets (`Revision Notes PDF` Page Guide) | Daily Timed Practice |
+| Output | PDF | Editable source |
 |---|---|---|
-| **Wed 21 Oct *(22:27 Now)*** | **CLOSE SCREEN & GO STRAIGHT TO SLEEP!** Full physical & mental recovery after Paper 1. | **Sleep `22:35 – 06:30` (`8 hrs`)** |
-| **Thu 22 Oct *(Day 1)*** | 🔥 **Section A #1 & #2 (`Pages 3–9`):**<br>• **Unit `2.2` Family:** **Divorce (*Talaq, Khulʿ, Faskh, ʿIddah*, Triple *Talaq* across *Hanafi / Hanbali, with labelled Ibn Taymiyyah alternatives*)** *(NEVER tested in 6 yrs!)* + **Female Inheritance (paternal grandmother with father; grandfather with full sister)**<br>• **Unit `2.1` Worship:** **Combining Prayers (*Jamʿ*)** *(NEVER tested in live exams!)* + **Timings (*Fajr, ʿAsr 1x vs 2x, Maghrib*)** + ***Wudu* Fiqh** | Write **Predicted Paper 2A `Q1(a)+(b)+(c)` (`42 mins`)** & compare with the `25/25` Model Script |
-| **Fri 23 Oct *(Day 2)*** | 🔥 **Section A #3 & #4 (`Pages 10–13`):**<br>• **Unit `2.3` Finance & Work:** **Employment in Local Contexts** (`5 yrs overdue`) + **Debt, *Riba* (`Q 2:275–282`) & Halal Mortgages (*Murabaha / Musharaka / Ijara*)**<br>• **Units `2.4–2.5` Law & Sources:** **Primary Sources + *Sahih* vs *Daʿif* Hadith** + **Direct 2-School Fiqh Comparison (*Hanafi vs Hanbali*)** | Write **one `Compare...` `[10m]` answer (`19 mins`)** using **`D — S — D — J`** |
-| **Sat 24 Oct *(Day 3)*** | 🔥 **Section B #5 & #6 (`Pages 15–21`):**<br>• **Unit `2.9` Distinctive Positions:** **Modern *Salafis* vs *Modernist Reformists* (*Ibn Taymiyyah vs Sir Sayyid Ahmad Khan / ʿAbduh / Fazlur Rahman*)** *(NEVER tested together in 6 yrs!)* + **Sunni vs Shiʾi Core Beliefs**<br>• **Unit `2.7` Leaders:** **Sufi Master (*Murshid, Bayʿah, Dhikr*)** *(NEVER tested in live exams!)* + **Sunni Caliph vs Infallible (*Maʿsum*) Shiʾi Imam** | Write **Predicted Paper 2A `Q3(a)+(b)` (`45 mins`)** & check against the `25/25` Model Essay |
-| **Sun 25 Oct *(Day 4)*** | 🔥 **Section B #7 & #8 (`Pages 22–26`) + `08:00 AM` Dress Rehearsal:**<br>• **Unit `2.6` Tawhid:** **Anthropomorphic Verses (`Face, Hand, Throne` — *Muʾtazilah* metaphor vs *Ashʿari bila kayf* vs *Salafi* literal)** (`5 yrs overdue!`) + ***Shahadah & ʿAli* (*Ghadir Khumm*)**<br>• **Unit `2.8` ʾAkhirah:** **Free Will vs *Qadar*** + **Adjusting the Divine Plan (*Qada Muʿallaq*, `Q 13:39`, *Duʾa* & Charity)** | **Sit Predicted Paper 2B at `08:00 – 09:30 AM` sharp** (exact Tuesday exam time!) |
-| **Mon 26 Oct *(Day 5 — Eve)*** | **Light Consolidation ONLY (`90 mins` total — stop by `17:00`):**<br>• Drill all **`6-Item Part (a)` Rapid Lists**, **14 Named Scholars**, & **`D-S-D-J` / `D-A-C-W` templates**; glance for 10 mins at cold `M/J 2026` backups (*Jumuʿah, Secondary priority, Sufi stations, Muʾtazilah vs Ashʿari*). Pack bag night before! | **Sleep `22:00 – 06:00` (`8 full hours`)** |
-| **Tue 27 Oct *(`08:00 AM`)* ** | **`06:00` Wake + breakfast → `06:45` 20-min calm skim of Scholars & Formulas → `08:00 AM` Smash Paper 2!** | Bank **`5/5` on Part `(a)` in `3.5 mins`** → **AS Grade `a`!** |
+| Past-paper audit, topic counts and predictions | [PDF](notes/01_Past_Paper_Audit_and_Predictions.pdf) | [Markdown](notes/01_Past_Paper_Audit_and_Predictions.md) |
+| Paper 3: Heritage of Islam — syllabus-mapped notes | [PDF](notes/02_Paper3_Revision_Notes.pdf) | [Markdown](notes/02_Paper3_Revision_Notes.md) |
+| Paper 4: Islam in the modern world — syllabus-mapped notes | [PDF](notes/03_Paper4_Revision_Notes.pdf) | [Markdown](notes/03_Paper4_Revision_Notes.md) |
+| Two practice papers, all-question plans, worked responses and revision plan | [PDF](notes/04_Practice_Papers_and_Answer_Guide.pdf) | [Markdown](notes/04_Practice_Papers_and_Answer_Guide.md) |
+| Standalone Paper 3 practice paper (no answers) | [PDF](notes/05_Paper3_Practice_Paper.pdf) | [Markdown](notes/05_Paper3_Practice_Paper.md) |
+| Standalone Paper 4 practice paper (no answers) | [PDF](notes/06_Paper4_Practice_Paper.pdf) | [Markdown](notes/06_Paper4_Practice_Paper.md) |
+| This start guide | [PDF](README.pdf) | [Markdown](README.md) |
 
----
+**One download:** [Papers 3 & 4 revision pack ZIP](Paper3_Paper4_Revision_Pack_OctNov2026.zip). Includes the authored PDFs, editable notes, audit data, source manifests and scripts. **It does not contain the original past-paper PDFs.**
 
-## 📂 Complete Clean Repository Contents (100% Valid Paper 2 Files Only)
-- [`README.pdf`](./README.pdf) & [`README.md`](./README.md)
-- [`Paper2_Predicted_Syllabus_Revision_Notes.pdf`](./Paper2_Predicted_Syllabus_Revision_Notes.pdf) & [`Paper2_Predicted_Syllabus_Revision_Notes.md`](./Paper2_Predicted_Syllabus_Revision_Notes.md)
-- [`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf`](./Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.pdf) & [`Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.md`](./Paper2_Master_Plan_and_Predicted_Exam_OctNov2026.md)
-- [`past-papers/Paper2_All_Question_Papers_2021_to_June2026.md`](./past-papers/Paper2_All_Question_Papers_2021_to_June2026.md)
-- [`past-papers/Paper2_All_Mark_Schemes_and_Examiner_Insights_2021_to_June2026.md`](./past-papers/Paper2_All_Mark_Schemes_and_Examiner_Insights_2021_to_June2026.md)
+### What the audit actually covers
+
+- **20 live question papers**: components **32 and 42**, ten listed sessions, November 2021 through June 2026.
+- **70 question groups / 110 marked prompts**: 40 Paper 3 groups with two parts each; 30 Paper 4 essays.
+- Two official specimen question papers checked separately, excluded from frequencies.
+- **20 corresponding mark schemes indexed**; June 2026 schemes read fully as extracted text, November 2025 schemes partly read. Other schemes are linked, not represented as reviewed.
+- Six examiner reports indexed, with **only the official June 2024 P3/P4 sections reviewed**.
+- The **2024–2026 official syllabus** governs content and format. Older papers do not override it.
+- No target November 2026 paper, leak or supposed insider material used.
+
+### Important collection limitation
+
+**Original PDF files were not downloaded into this workspace.** Source sites could be read using online text extraction, but direct binary downloads were blocked by the workspace network. The audit is a linked, editorial question summary, not a facsimile archive; source images were not independently inspected. Always open the original Paper 3 figures for source practice.
+
+The discovered index has no May/June 2021 session. Its absence is recorded, not taken as proof that no paper existed. Missing later report links and other variants are not silently filled in. The resource register contains **51 indexed resources** (40 live QP/MS, six reports, four specimen QP/MS, one syllabus), with separate review and local-file statuses.
+
+- [Question-by-question CSV](data/question_audit.csv)
+- [Reproducible topic counts](data/topic_counts.json)
+- [Original resource links and review status — CSV](sources/resource_manifest.csv)
+- [Original resource links and review status — JSON](sources/resource_manifest.json)
+
+To collect the originals on an unrestricted network, download/clone this repository and run:
+
+```sh
+python scripts/download_sources.py
+```
+
+The downloader rejects HTML redirects and incomplete PDF responses, writes hashes and a per-file result log, and returns a failure status if anything is missing. It needs only Python 3. Originals go to `sources/originals/` (gitignored). A link being indexed is not a claim that it has downloaded successfully.
+
+### What “predictions” means here
+
+Priorities are based on recurring question families, syllabus breadth and the usefulness of transferable evidence. They are **not numerical probabilities**, an “overdue topic” theory, or permission to skip topics. Recent appearances do not eliminate November repeats. Paper 4 can combine themes rather than neatly offer one isolated question per theme.
+
+### Case-study choices
+
+These notes provide one permitted route, not all syllabus alternatives:
+
+- **Paper 3:** Damascus; Ibn al-Haytham with supporting scientific breadth; *Hayy ibn Yaqzan* and *Incoherence*; Sultan Ahmed and Djenné.
+- **Paper 4:** Razia and Noor Jahan; Benazir Bhutto; Muslim Spain; Mauritius and France; Abduh and Iqbal; Mahathir. Khadija, Aisha and Fatima are also covered as early role models.
+
+Check these choices against your friends' class notes before revising. Keep a well-prepared alternative and substitute it into the frameworks if their course uses another permitted route. The full topic checklist remains necessary even when examples are optional.
+
+### Recommended order
+
+1. Read the format and cautious priority pages in the audit.
+2. Confirm chosen case studies; work through both syllabus checklists.
+3. Use the question audit to plan real past-paper answers, viewing the original figures.
+4. Sit the two author-written practice papers before opening their answer guidance.
+5. Mark AO1 and AO2 separately; correct errors; use the flexible seven-session plan.
+
+No mark, grade or exact exam question is guaranteed. Ask a teacher to calibrate self-marking. Confirm examination dates and component codes with your centre.
+
+### Rebuild and verify
+
+```sh
+python -m venv .venv
+.venv/bin/pip install -r requirements.txt
+.venv/bin/python scripts/build_audit.py
+.venv/bin/python scripts/build_pdfs.py
+.venv/bin/python scripts/check_pack.py
+.venv/bin/python scripts/package_pack.py
+```
+
+Research cut-off: **29 October 2026**. All old Paper 1/2 materials have been removed from the current branch tree at the user's request; this does not rewrite historical Git commits. No pull-request merge is authorised or performed.
