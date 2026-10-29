@@ -5,12 +5,16 @@
   "scripts": {
     "build": "node scripts/build_site.mjs",
     "start": "node scripts/serve_site.mjs",
-    "test": "playwright test"
+    "test": "node --test tests/core.unit.mjs && playwright test",
+    "pretest": "npm run build"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.14.0",
     "@playwright/test": "^1.58.0",
     "@sparticuz/chromium": "^153.0.0",
-    "marked": "^17.0.0"
+    "he": "^2.0.0",
+    "marked": "^17.0.0",
+    "prettier": "^3.9.10",
+    "sanitize-html": "^2.18.1"
   }
 }

@@ -88,8 +88,9 @@ Research cut-off: **29 October 2026**. All old Paper 1/2 materials have been rem
 A mobile-friendly parchment, dark-red and white study website is included. It offers readable Paper 3/4 notes, search, topic review markers, syllabus checklists, a filtered past-paper explorer, a timed practice room, browser-local drafts, hidden guidance and PDF downloads.
 
 - **Ready-to-host build:** `Study_Room_Website_VPS.zip` (finished static website, not the older revision-content ZIP).
-- **Deployment instructions:** [DEPLOY.md](DEPLOY.md).
-- **Rebuild:** `npm ci && npm run build` with Node.js 22+; serve the resulting `dist/` folder using Caddy or Nginx.
+- **WinSCP + existing Nginx deployment:** [DEPLOY.md](DEPLOY.md). The website ZIP includes `deploy-study-room.sh`, which installs missing system tools and serves a private backend on `127.0.0.1:9001`; it leaves your existing subdomain/TLS configuration intact. Use the full website ZIP, not the revision-content ZIP.
+- **Re-audit, fixes and test boundaries:** [WEBSITE_AUDIT.md](WEBSITE_AUDIT.md).
+- **Rebuild:** `npm ci && npm run build` with Node.js 22+ on the build machine; `python scripts/package_site.py` packages the ready upload. No Node/Python runtime is needed on the VPS.
 - **Preview:** `npm start`, then open port 3000.
 
 No database, accounts, analytics or live API is required. Browser-local progress is not exam-readiness scoring. Original-paper/review limitations remain visible throughout the site.
