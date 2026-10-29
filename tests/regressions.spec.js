@@ -228,3 +228,52 @@ test("reset removes review marks and checks but keeps both paper drafts", async 
   expect(saved.checks).toEqual({});
   expect(saved.drafts).toEqual({ 3: "keep three", 4: "keep four" });
 });
+
+test("confidence markers are visible, labelled and not presented as topic probabilities", async ({
+  page,
+}) => {
+  await page.goto("/#/priorities");
+  await expect(page.locator("#confidence-title")).toHaveText(
+    "Evidence confidence—not a topic ranking",
+  );
+  await expect(page.locator(".confidence-explanation")).toContainText(
+    "do not rate how likely a topic",
+  );
+  await expect(page.locator(".confidence-badge")).toHaveCount(3);
+  await expect(page.locator(".priorities-prose h3")).toHaveCount(2);
+  await expect(page.locator(".priorities-prose ol > li")).toHaveCount(8);
+  await expect(page.locator(".priorities-prose")).not.toContainText(
+    "High confidence:",
+  );
+  for (const surface of ["light", "dark"]) {
+    if (surface === "dark")
+      await page.addStyleTag({
+        content:
+          ":root{--paper:#22211d;--cream:#25241e;--ink:#f4eee4;--muted:#c9c1b4;--line:#645c51}",
+      });
+    const colours = await page
+      .locator(".confidence-dot")
+      .evaluateAll((dots) =>
+        dots.map((dot) => getComputedStyle(dot).backgroundColor),
+      );
+    expect(new Set(colours).size).toBe(3);
+    for (const dot of await page.locator(".confidence-dot").all()) {
+      await expect(dot).toBeVisible();
+      expect((await dot.boundingBox()).width).toBeGreaterThanOrEqual(12);
+      expect(
+        await dot.evaluate((el) => getComputedStyle(el).boxShadow),
+      ).not.toBe("none");
+      await expect(dot).toHaveAttribute("aria-hidden", "true");
+    }
+    await page.setViewportSize({ width: 320, height: 750 });
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+    await page.screenshot({
+      path: `test-results/confidence-${surface}.png`,
+      fullPage: true,
+    });
+  }
+});

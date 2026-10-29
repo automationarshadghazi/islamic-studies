@@ -1421,6 +1421,16 @@ details[open] .plus {
 details > .prose {
   padding: 12px 30px;
 }
+.confidence-key h2 {
+  margin: 0 0 6px;
+  font: 600 16px/1.4 var(--sans);
+}
+.confidence-explanation {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-size: 13px;
+  max-width: 760px;
+}
 .confidence-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -1428,35 +1438,55 @@ details > .prose {
   margin-bottom: 25px;
 }
 .confidence-grid > div {
+  min-width: 0;
   padding: 20px;
   border: 1px solid var(--line);
   background: var(--paper);
   border-radius: 5px;
 }
-.confidence-grid strong {
-  display: inline;
-  font-size: 11px;
+.confidence-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 7px 12px;
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  color: var(--ink);
+}
+.confidence-badge strong {
+  font-size: 12px;
+  line-height: 1.5;
 }
 .confidence-grid p {
-  font-size: 11px;
-  color: #716353;
-  margin: 11px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+  margin: 12px 0 0;
 }
 .confidence-dot {
   display: inline-block;
-  width: 6px;
-  height: 6px;
+  flex: 0 0 14px;
+  width: 14px;
+  height: 14px;
   border-radius: 50%;
-  margin-right: 9px;
+  /* A contrasting ring keeps the marker distinct on light or dark surfaces.
+     Its written confidence label carries the meaning without relying on colour. */
+  box-shadow:
+    0 0 0 2px var(--paper),
+    0 0 0 3px var(--muted);
 }
-.high {
-  background: #627e63;
+.confidence-dot.high {
+  background: #307147;
 }
-.medium {
-  background: #b29559;
+.confidence-dot.medium {
+  background: #8d6510;
 }
-.low {
-  background: var(--wine);
+.confidence-dot.low {
+  background: #aa3447;
+}
+@media (forced-colors: active) {
+  .confidence-dot {
+    border: 2px solid CanvasText;
+  }
 }
 .priorities-prose {
   max-width: 850px;

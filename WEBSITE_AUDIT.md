@@ -24,7 +24,7 @@ This is a record of concrete fixes and checks, not a promise of zero bugs or ind
 
 ## Verified results
 
-- **25 browser tests passed**, including the main routes, all 19 revision chapters, malformed saved data/prototype routes, review/checklist reload persistence, companion-chapter progress, persistent per-paper timers and expiry, draft exports/quota errors, cross-tab conflict handling, reset preserving both drafts, search aliases, 320px/mobile layouts, keyboard navigation, skip/contents focus, download signatures, loading/incompatible-data failures and preview methods.
+- **26 browser tests passed**, including the main routes, all 19 revision chapters, malformed saved data/prototype routes, review/checklist reload persistence, companion-chapter progress, persistent per-paper timers and expiry, draft exports/quota errors, cross-tab conflict handling, reset preserving both drafts, search aliases, 320px/mobile layouts, keyboard navigation, skip/contents focus, download signatures, loading/incompatible-data failures and preview methods.
 - Automated axe WCAG 2 A/AA checks passed on **8 main pages, all 19 reader chapters and mobile drawer/search/storage-warning states**. This does not replace manual assistive-technology testing or guarantee accessibility for every combination.
 - **4 Node unit tests passed** for state validation, search normalisation/session aliases, timer calculations and built-content consistency/sanitisation.
 - **13 isolated installer tests passed**: dry-run, missing-package installation without requesting an existing Nginx upgrade, fresh install/repeat update, public-only copying, upload corruption/omitted checksums, invalid arguments/domain input, config-validation rollback, failed-health rollback, missing Nginx include, unknown config refusal, unauthorised listener refusal, protected-process refusal and symlink refusal. The explicit free-port test actually terminates only a socket process created by the test.
@@ -56,3 +56,10 @@ Important existing qualifications remain visible: Ibn al-Haytham worked in Fatim
 Browser data is origin/profile-specific and can be cleared, blocked or full. Saving is not a backup service: export important drafts. Timers depend on the device clock and are practice aids, not official exam clocks. Other-tab saving deliberately pauses instead of silently merging conflicting work. Normal web-server access logs may exist; the app does not upload drafts or progress and uses no analytics.
 
 Dependencies, interrupted apps and SELinux policy changes are not automatically undone by release rollback. Old releases/backups are retained rather than deleted automatically. Protected shared listeners require an administrator to remove the exact conflict safely. Existing domain/certificate settings remain your responsibility.
+
+
+## Follow-up: confidence marker visibility
+
+The three 6px confidence dots were too subtle, particularly against a dark browser surface, and could be mistaken for a topic-priority legend. They are now 14px ringed markers inside labelled badges. An explicit heading explains that these are evidence-confidence levels, not exam-topic probabilities. The duplicated source confidence paragraph is omitted from the website view; all eight Paper 3/4 first-pass practice priorities remain intact, and the source notes/PDF are unchanged.
+
+A browser regression checks marker size, three distinct colours, labels, mobile width and preservation of the actual priority lists, including a simulated dark surface. This does not claim compatibility with every browser colour-inversion extension or add a full dark theme. The full suite passes: 26 browser tests and 4 Node unit tests.

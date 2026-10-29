@@ -90,6 +90,12 @@ Use your normal Nginx reload procedure if it is not managed by systemd. If your 
 
 **Do not open firewall port 9001.** This backend is private, not a public `http://VPS-IP:9001` website. Use your subdomain through Nginx on 443. On the VPS, `curl http://127.0.0.1:9001/` should return the website.
 
+### Updating the existing Docker Nginx Proxy Manager deployment
+
+If your public ports 80/443 belong to Nginx Proxy Manager in Docker, the container's `127.0.0.1` is not the VPS host. Keep the working private-bridge listener configuration and its Proxy Host upstream when updating the website. On the configured VPS, these are the additional `/etc/nginx/conf.d/study-room-docker-9001.conf` listener and upstream `http://172.21.0.1:9001`. The installer does not remove that separate file or change the Docker stack. Both listeners continue serving the updated `/var/www/study-room/current` release, so ordinary website updates need no n8n/Docker restart or Proxy Host change.
+
+That address is specific to the existing `n8n-docker_default` network, not a universal Docker gateway. If the network changes or is recreated, verify its gateway again. The private-bridge listener requires the network address to exist before host Nginx starts. Do not replace it with a public wildcard listener merely to update the website.
+
 ## What the script changes
 
 - Supports standard Debian/Ubuntu (`apt-get`) and Fedora/Rocky/Alma (`dnf`) layouts, Bash 4+, root/sudo and ordinary Linux base utilities.

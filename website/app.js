@@ -326,13 +326,43 @@ function priorities() {
   const s = doc("audit").sections.find((s) =>
     s.title.startsWith("Cautious November"),
   );
+  // The source introduction repeats the confidence key. Keep the actual study
+  // priorities, but present that key once, with readable labels and markers.
+  const studyPriorities = (s?.html || "").replace(
+    /^<p><strong>High confidence:<\/strong>[\s\S]*?<\/p>\s*/,
+    "",
+  );
+  const confidence = [
+    {
+      level: "high",
+      label: "High confidence",
+      text: "Published format and assessment objectives.",
+    },
+    {
+      level: "medium",
+      label: "Moderate confidence",
+      text: "The value of recurring comparison and evaluation skills.",
+    },
+    {
+      level: "low",
+      label: "Low confidence",
+      text: "Any exact future question, topic or wording.",
+    },
+  ];
   return (
     pageHead(
       "PREPARATION, NOT PROPHECY",
       "Revision priorities",
       "Use the evidence to organise your time—not to narrow your syllabus.",
     ) +
-    `<div class="confidence-grid"><div><span class="confidence-dot high"></span><strong>High confidence</strong><p>Published format and assessment objectives.</p></div><div><span class="confidence-dot medium"></span><strong>Moderate confidence</strong><p>The value of recurring comparison and evaluation skills.</p></div><div><span class="confidence-dot low"></span><strong>Low confidence</strong><p>Any exact future question, topic or wording.</p></div></div><div class="notice">${icon("shield")}<p><strong>No topic is “due”.</strong> Frequency is not probability. Recent appearances do not rule out repeats. There is no validated forecasting model or permission to skip syllabus areas.</p></div><article class="prose priorities-prose">${s ? s.html : ""}</article><div class="bottom-strip">${icon("chart")}<div><strong>Follow the evidence back to the questions.</strong><span>The complete audit explains counting methods, historical context and gaps.</span></div><a href="downloads/${doc("audit").file}.pdf">Read the audit ↗</a></div>`
+    `<section class="confidence-key" aria-labelledby="confidence-title">
+      <h2 id="confidence-title">Evidence confidence—not a topic ranking</h2>
+      <p class="confidence-explanation">The coloured markers describe confidence in these claims. They do not rate how likely a topic is to appear in your exam.</p>
+      <div class="confidence-grid">${confidence.map((c) => `<div><span class="confidence-badge"><span class="confidence-dot ${c.level}" aria-hidden="true"></span><strong>${c.label}</strong></span><p>${c.text}</p></div>`).join("")}</div>
+    </section>
+    <div class="notice">${icon("shield")}<p><strong>No topic is “due”.</strong> Frequency is not probability. Recent appearances do not rule out repeats. There is no validated forecasting model or permission to skip syllabus areas.</p></div>
+    <article class="prose priorities-prose">${studyPriorities}</article>
+    <div class="bottom-strip">${icon("chart")}<div><strong>Follow the evidence back to the questions.</strong><span>The complete audit explains counting methods, historical context and gaps.</span></div><a href="downloads/${doc("audit").file}.pdf">Read the audit ↗</a></div>`
   );
 }
 function downloads() {
